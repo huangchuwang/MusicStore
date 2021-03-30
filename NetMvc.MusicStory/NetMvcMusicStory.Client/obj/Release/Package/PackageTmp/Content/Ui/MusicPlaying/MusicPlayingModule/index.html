@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>阿里旺旺音乐</title>
+		<link rel="stylesheet" href="css/bootstrap.css" />
+		<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="css/index.css" />
+
+		<script src="../Home/js/jquery-3.4.1.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../Home/boostrap/bootstrap.bundle.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../Home/boostrap/bootstrap.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../Home/Swiper/swiper.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../Home/js/lazyload.js" type="text/javascript" charset="utf-8"></script>
+		<link rel="stylesheet" type="text/css" href="../Home/boostrap/bootstrap.css" />
+		<link rel="stylesheet" type="text/css" href="../Home/Swiper/swiper.css" />
+		<link rel="stylesheet" type="text/css" href="../Home/css/MyStyle.css" />
+	</head>
+	
+	<body>
+<div>
+	<div class="row justify-content-center header">
+		<div class="col-12">
+			<nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
+				<a class="navbar-brand text-info" href="#">
+					<img src="../Home/img/computer.png" width="30" height="30" class="d-inline-block align-top" alt="">
+					音乐商店
+				</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse"
+					data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
+					aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+
+				<div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+					<ul class="navbar-nav mr-auto" id="headlabel">
+						<li class="nav-item active dropdown">
+							<a class="nav-link" href="#">首页 <span class="sr-only">(current)</span></a>
+						</li>
+						<li class="nav-item dropdown">
+							<a class="nav-link" href="#">最新</a>
+						</li>
+
+
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+								data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								类型
+							</a>
+							<div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
+								<a class="dropdown-item text-secondary" href="#">流行</a>
+								<a class="dropdown-item text-secondary" href="#">古风</a>
+								<a class="dropdown-item text-secondary" href="#">摇滚....</a>
+							</div>
+						</li>
+					</ul>
+					<form class="form-inline my-2 my-lg-0" id="serch-form">
+						<input class="form-control form-control-sm mr-sm-2 bg-dark text-white" name="name" id="in"
+							type="search" placeholder="请输入专辑名称" aria-label="Search">
+						<button id="btn" class="btn my-2 my-sm-0" type="submit">
+							<img src="../home/img/grabble.png" width="23" height="23" class="d-inline-block align-top"
+								alt="">
+						</button>
+					</form>
+					&nbsp;&nbsp;
+					<button type="button" class="btn btn-outline-success btn-sm mx-1" data-toggle="modal" data-target="#restInfo" id="myModa2">购物车</button>
+					<!-- 登录按钮 -->
+					&nbsp;&nbsp;
+					<button type="button" class="btn btn-primary btn-sm" data-toggle="modal"
+						data-target="#longinInfo" id="myModal">登录</button>
+					<!-- 登录弹框-->
+					<div class="modal fade" id="longinInfo" tabindex="1" role="dialog"
+						aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+						<div class="modal-dialog modal-dialog-centered" role="document">
+							<div class="modal-content">
+								<div class="modal-header">
+									<h5 class="modal-title" id="exampleModalCenterTitle">欢迎登录</h5>
+									<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+									</button>
+								</div>
+								<div class="modal-body">
+									<!-- 登录表单内容 -->
+									<div class="col-12 mb-3">
+										<div class="col-auto my-1">
+											用户名
+										</div>
+										<input type="text" class="form-control" id="exampleFormControlInput1"
+											placeholder="请输入用户名">
+									</div>
+									<div class="col-12 mb-3">
+										<div class="col-auto my-1">
+											密码
+										</div>
+										<input type="password" class="form-control" id="exampleFormControlInput1"
+											placeholder="请输入密码">
+									</div>
+									<div class="col-12 mt-2">
+										<button type="button " class="btn btn-primary btn-md btn-block">登录</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					&nbsp;&nbsp;
+					<!-- 注册按钮 -->
+					<button type="button" class="btn btn-outline-success btn-sm mx-1" data-toggle="modal"
+						data-target="#restInfo" id="myModa2">注册</button>
+					<div class="modal fade" id="restInfo" tabindex="1" role="dialog"
+						aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+						<div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+							<div class="modal-content">
+								<div class="modal-header">
+									<h5 class="modal-title" id="exampleModalCenterTitle">欢迎注册</h5>
+									<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+									</button>
+								</div>
+								<div class="modal-body">
+									<!-- 注册表单内容 -->
+									<div class="col-12 mb-3">
+										<div class="col-auto my-1">
+											用户名
+										</div>
+										<input type="text" class="form-control" id="exampleFormControlInput1"
+											placeholder="请输入用户名">
+									</div>
+									<div class="col-12 mb-3">
+										<div class="col-auto my-1">
+											密码
+										</div>
+										<input type="password" class="form-control" id="exampleFormControlInput1"
+											placeholder="请输入密码">
+									</div>
+									<div class="col-12 mb-3">
+										<div class="col-auto my-1">
+											确认密码
+										</div>
+										<input type="password" class="form-control" id="exampleFormControlInput1"
+											placeholder="请再次输入密码">
+									</div>
+									<div class="col-12 mb-3">
+										<div class="col-auto my-1">
+											地址
+										</div>
+										<div class="row">
+											<div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+												<div class="row justify-content-between">
+													<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 mb-2">
+														<select class="custom-select mr-sm-2"
+															id="inlineFormCustomSelect" style="width: 8.125rem;">
+															<option selected>湖北省</option>
+															<option value="1">浙江省</option>
+															<option value="2">北京市</option>
+															<option value="3">广东省</option>
+														</select>
+													</div>
+
+													<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6">
+														<select class="custom-select mr-sm-2"
+															id="inlineFormCustomSelect" style="width: 8.125rem;">
+															<option selected>武汉市</option>
+															<option value="1">衡水市</option>
+															<option value="2">黄石市</option>
+															<option value="3">北京市</option>
+														</select>
+													</div>
+
+													<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6">
+														<select class="custom-select mr-sm-2"
+															id="inlineFormCustomSelect" style="width: 8.125rem;">
+															<option selected>洪山区</option>
+															<option value="1">武昌区</option>
+															<option value="2">江西区</option>
+															<option value="3">咸安区</option>
+														</select>
+													</div>
+												</div>
+											</div>
+											<div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+												<input type="text" class="form-control" placeholder="详细地址">
+											</div>
+											<div class=" col-12  ml-3 custom-control custom-checkbox">
+												<input type="checkbox" class="custom-control-input"
+													id="customCheck1">
+												<label class="custom-control-label text-primary"
+													for="customCheck1">同意协议</label>
+											</div>
+											<div class="col-12 mt-2">
+												<button type="button "
+													class="btn btn-primary btn-md btn-block">注册</button>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</nav>
+		</div>
+		<div class="col-lg-10 col-md-12 col-sm-12">
+			<div class="swiper-container" id="case7">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide"><img data-src="img/images/124015-155996881530e3.jpg" class="lazyload">
+					</div>
+					<div class="swiper-slide"><img data-src="img/images/135417-1587794057ab38.jpg" class="lazyload">
+					</div>
+					<div class="swiper-slide"><img data-src="img/images/132350-1581139430a623.jpg" class="lazyload">
+					</div>
+					<div class="swiper-slide"><img data-src="img/images/174718-15581728388724.jpg" class="lazyload">
+					</div>
+					<div class="swiper-slide"><img data-src="img/images/221508-1560521708e6ff.jpg" class="lazyload">
+					</div>
+					<div class="swiper-slide"><img data-src="img/images/223137-1586615497a2d9.jpg" class="lazyload">
+					</div>
+					<div class="swiper-slide"><img data-src="img/images/232605-15862731656596.jpg" class="lazyload">
+					</div>
+					<div class="swiper-slide"><img
+							data-src="img/images/small40192f858069acd05d816e43323d9a5e1586266564.jpg"
+							class="lazyload"></div>
+					<div class="swiper-slide"><img
+							data-src="img/images/small5ff86b7c37fbe15dae262fd75bbba3051585738258.jpg"
+							class="lazyload"></div>
+					<div class="swiper-slide"><img
+							data-src="img/images/small792b2abf64dbe9b8941798021c1554bf1584278721.jpg"
+							class="lazyload"></div>
+				</div>
+				<!-- 导航按钮 上一页下一页 -->
+				<div class="swiper-button-prev"></div>
+				<div class="swiper-button-next"></div>
+				<!-- 分页器 -->
+				<div class="swiper-pagination"></div>
+				<!-- 滚动条 -->
+				<div class="swiper-scrollbar"></div>
+			</div>
+		</div>
+	</div>
+
+		<!--外层最大div开始-->
+		<div class="main ">
+			<div style="height: 650px;">
+				<div class="gc" id="gc">
+					<div class="gc-in">
+						<div class="row">
+							<div class="col-lg-5 disk hidden-sm hidden-md hidden-xs">
+								<div style="position: absolute; top: 70px; width: 400px;">
+									<img src="img/t018168f8b9452114af.jpg" class="disk-img" />
+								</div>
+							</div>
+							<div class="col-lg-7 col-sm-12   col-md-12  col-xs-12   kfc-list">
+								<ul id="kfc-list-ul">
+
+								</ul>
+
+							</div>
+						</div>
+
+					</div>
+
+				</div>
+				<!--左边导航栏开始-->
+				<div class="info_l">
+					<img src="img/qfl.jpg" width="251px" height="251px">
+					<p class="intr">专辑简介</p>
+					<p class="intr_txt">
+						BILIBILI十一周年演讲，著名歌手、B站UP主周深现场献唱《起风了》，为“家”带来一份特别的生日礼物。
+					</p>
+					<div class="down"><a href="" class="download bg_primary" data-v-5199e74e=""><i class="iconfont icon-bar_icon_download_">+</i>加入购物车</a></div>
+				</div>
+				
+				<!-- <div class="main-left">
+					<span class="glyphicon  glyphicon-align-justify" style="line-height: 50px; padding-left: 10px; color: gray;" onclick="leftHidden()"></span>
+
+					<div class="main-left-top">
+						<a href="#" class="list-group-item"><span class="glyphicon glyphicon-search"></span>搜索</a>
+						<a href="#" class="list-group-item"><span class="glyphicon glyphicon-music"></span>发现</a>
+						<a href="#" class="list-group-item"><span class="glyphicon glyphicon-expand"></span>mv</a>
+					</div>
+
+					<div class="main-left-button">
+						<p style="font-size: 16px; margin-left: 10px;">我的音乐</p>
+						<a href="#" class="list-group-item"><span class="glyphicon glyphicon-heart"></span>我喜欢</a>
+						<a href="#" class="list-group-item"><span class="glyphicon glyphicon-time"></span>最近播放</a>
+					</div>
+					<div class="main-left-user">
+						<div style="width: 150px; float: left;">
+							<img src="img/head.png" style="height: 50px; width: 50px; border-radius: 50px; border: 1px solid gainsboro; margin-left: 10px;" />
+							<span class="username">未登陆</span>
+						</div>
+						<div style="float: right;">
+							<span class="glyphicon glyphicon-envelope"></span>
+							<span class="glyphicon glyphicon-cog"></span>
+						</div>
+					</div>
+				</div> -->
+				<!--左边导航栏结束-->
+				<!--中间内容开始-->
+				<div class="main-content" style="overflow: auto; ">
+					<p style=" margin-top: 50px; background-color: #2e4db3;color: white; width: 100%; position: fixed; z-index: 100;" class="alert">音乐</p>
+					<div class="container" style="width: 95%; padding-top: 70px; ">
+						<table class="table">
+							<thead>
+							  <tr>
+								<th>名称</th>
+								<th>歌手</th>
+							  </tr>
+							</thead>
+						  </table>
+						<table class="table table-hover table-striped" id="music-list">
+							<tr></tr>
+						</table>
+					</div>
+				</div>
+				<!--中间内容结束-->
+				<div class="page-wrap">
+					<i class="li-page iconfont icon-icon_pageup notPointer"></i> 
+					<ul class="flex_c">
+						<li>
+							<span class="notCursor currentPage">1</span>
+						</li>
+						<li>
+							<span class="">2</span>
+						</li>
+						<li>
+							<span class="">3</span>
+						</li>
+						<li class="gd">
+							···
+						</li>
+						<li>
+							<span class="">79</span>
+						</li>
+					</ul> 
+					<i class="li-page iconfont icon-icon_pagedown">＞</i>
+				</div>
+			</div>
+			<!--底部播放器开始-->
+			<div class="main-button row">
+				<div class="music-control col-lg-3 col-md-4 col-sm-4 col-xs-12 ">
+					<div style="padding-left: 0px;" class="col-md-3">
+						<img src="img/t018168f8b9452114af.jpg" class="img-music hidden-sm hidden-xs" onclick="show()" />
+					</div>
+					<div class="col-md-9">
+						<span class="glyphicon glyphicon-step-backward" id="last"></span>
+						<span class="glyphicon glyphicon-play" id="play"></span>
+						<span class="glyphicon glyphicon-step-forward" id="next"></span>
+					</div>
+				</div>
+				<div class="bottom-center col-lg-7 col-md-8 col-sm-8 hidden-xs">
+					<div style="height: 50px; line-height: 50px; font-size: 18px;"><span id="music-name"></span><span id="nowlrc" style="margin-left: 20px; font-size: 12px;"></span><span style="float: right;" id="time"></span></div>
+					<div class="jdt">
+						<div class="wc">
+							<!--外层滚动条-->
+							<div id="progress" style="height: 5px; background-color: gray; margin-top:4px ;">
+								<!--当前进度-->
+								<div class="jd" style="width: 0%;" id="jd">
+									<div class="in-yuan" id="yuan" draggable="true"></div>
+								</div>
+								<!--圆点-->
+
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<div class="bottom-right col-lg-2  hidden-md hidden-sm">
+					<span class="glyphicon glyphicon-heart"></span>
+					<span class="glyphicon glyphicon-refresh"></span>
+					<span class="glyphicon glyphicon-volume-up"></span>
+					<span class=" glyphicon glyphicon-align-justify "></span>
+					<a href="6477626.htm"><span class="badge" style="width: 50px; height: 20px; line-height: 20px;">99+</span></a>
+
+				</div>
+			</div>
+			<!--底部播放器结束-->
+
+		</div>
+		<!--外层最大div结束-->
+		<audio src="" id="au"></audio>
+	</body>
+	<script type="text/javascript" src="js/index.js"></script>
+	<script>
+		//是否已经打开歌词窗口标记
+		var flag = true;
+
+		function show() {
+			$("#gc").removeClass("gc3");
+
+			if(flag) {
+				$("#gc").addClass("gc2");
+			} else {
+				$("#gc").addClass("gc3");
+			}
+
+			flag = !flag;
+
+		}
+	</script>
+
+</html>

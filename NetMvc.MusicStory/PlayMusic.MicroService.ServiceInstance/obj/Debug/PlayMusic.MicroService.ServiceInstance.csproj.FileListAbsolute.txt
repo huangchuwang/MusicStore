@@ -1,0 +1,1548 @@
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojAssemblyReference.cache
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CoreCompileInputs.cache
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CopyComplete
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojResolveAssemblyReference.cache
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+E:\000来找茬\66666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojResolveAssemblyReference.cache
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+E:\000来找茬\777777\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojAssemblyReference.cache
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CoreCompileInputs.cache
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CopyComplete
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojResolveAssemblyReference.cache
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojResolveAssemblyReference.cache
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+D:\MrMusicStore\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojAssemblyReference.cache
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CoreCompileInputs.cache
+E:\桌面\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CopyComplete
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojAssemblyReference.cache
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CoreCompileInputs.cache
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CopyComplete
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojAssemblyReference.cache
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CoreCompileInputs.cache
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CopyComplete
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojResolveAssemblyReference.cache
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+D:\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\ApplicationInsights.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\PlayMusic.MicroService.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.exe.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csc.rsp
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.exe
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\csi.rsp
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.AppContext.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.exe.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\roslyn\vbc.rsp
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\WebGrease.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Newtonsoft.Json.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Net.Http.Formatting.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Helpers.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Http.WebHost.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Mvc.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Optimization.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.Razor.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\Antlr3.Runtime.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\EntityFramework.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\PlayMusic.MicroService.ServiceInstance\obj\Debug\PlayMusic.MicroService.ServiceInstance.pdb

@@ -1,0 +1,1497 @@
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\ApplicationInsights.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\csc.exe
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\vbc.exe
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.pdb
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Owin.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\WebGrease.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.pdb
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CoreCompileInputs.cache
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CopyComplete
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\ApplicationInsights.config
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\csc.exe
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\vbc.exe
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll.config
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Agent.Intercept.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Owin.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\WebGrease.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.pdb
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\ApplicationInsights.config
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\csc.exe
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\vbc.exe
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll.config
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.pdb
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Owin.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\WebGrease.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.pdb
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.xml
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csprojResolveAssemblyReference.cache
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.dll
+D:\MrMusicStore\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\ApplicationInsights.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Owin.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\WebGrease.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\ApplicationInsights.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\csc.exe
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\vbc.exe
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Owin.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\WebGrease.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CoreCompileInputs.cache
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CopyComplete
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\ApplicationInsights.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\csc.exe
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\vbc.exe
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.pdb
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Owin.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\WebGrease.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.pdb
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csprojAssemblyReference.cache
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CoreCompileInputs.cache
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CopyComplete
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csprojResolveAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\ApplicationInsights.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Owin.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\WebGrease.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csprojAssemblyReference.cache
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\ApplicationInsights.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\csc.exe
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\vbc.exe
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Agent.Intercept.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Owin.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\WebGrease.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CoreCompileInputs.cache
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CopyComplete
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csprojAssemblyReference.cache
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csprojAssemblyReference.cache
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\ApplicationInsights.config
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll.config
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Owin.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\csc.exe
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\vbc.exe
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\ApplicationInsights.config
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll.config
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Agent.Intercept.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Owin.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\WebGrease.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.xml
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CoreCompileInputs.cache
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CopyComplete
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.dll
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\ApplicationInsights.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Owin.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\WebGrease.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\ApplicationInsights.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\AuthorityManagementApi.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Owin.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\WebGrease.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Models.dll.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\NetMvcMusicStory.Service.dll.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.Web.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.ApplicationInsights.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Newtonsoft.Json.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Net.Http.Formatting.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Helpers.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.WebHost.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Mvc.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Optimization.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Razor.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.WebPages.Razor.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Antlr3.Runtime.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\EntityFramework.SqlServer.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\System.Web.Http.Owin.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\AuthorityManagementApi.ServiceInstance\obj\Debug\AuthorityManagementApi.ServiceInstance.csprojAssemblyReference.cache

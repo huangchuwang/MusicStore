@@ -1,0 +1,218 @@
+@charset "utf-8";
+
+.bc-splice {
+    position: relative;
+    z-index: 99;
+    width: 100%;
+    height: 100%;
+    border: 1px solid #66CCFF;
+    border-radius: 5px;
+}
+.bc-splice.bc--fail {
+    border: 1px solid #FF6666;
+}
+.bc-splice.bc--ready,
+.bc-splice.bc--check {
+    border: 1px solid #FF9966;
+}
+.bc-splice__screen {
+    position: absolute;
+    left: 0;
+    bottom: 100%; 
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+    opacity: 0;
+    -ms-transition: height ease 0.3s, opacity ease 0.4s;
+    transition: height ease 0.3s, opacity ease 0.4s;
+}
+.bc-splice__screen.bc--active {
+    height: 155px;
+    opacity: 1;
+}
+.bc-splice__img {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    width: 100%;
+    height: 145px;
+    background: #fff;
+}
+.bc-splice__canvas--rip {
+    width: 100%;
+    height: 100%;
+}
+.bc-splice__canvas--piece {
+    position: absolute;
+    top: 0;
+    left: 5px;
+    z-index: 2;
+    width: 50px;
+    height: 50px;
+}
+.bc-splice__strip {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 45px;
+    height: 100%;
+    overflow: hidden;
+    background:  #c0eaff; 
+    border-radius: 4px;
+}
+
+.bc-splice__prompt--ready,
+.bc-splice__prompt--start, 
+.bc-splice__prompt--slide, 
+.bc-splice__prompt--check,
+.bc-splice__prompt--success,
+.bc-splice__prompt--fail {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    border-radius: 4px;
+}
+
+.bc-splice__prompt--ready,
+.bc-splice__prompt--check {
+    display: none;
+    z-index: 5;
+    background: #FF9966;
+}
+.bc-splice.bc--ready .bc-splice__prompt--ready,
+.bc-splice.bc--check .bc-splice__prompt--check {
+    display: block;
+}
+.bc-splice__prompt--start {
+    display: none;
+    z-index: 4;
+    background: #fff;
+    cursor: pointer;
+}
+.bc-splice.bc--start .bc-splice__prompt--start {
+    display: block;
+}
+.bc-splice__prompt--success {
+    background: #38bdff;
+    opacity: 0;
+    -ms-transition: opacity ease 0.3s;
+    transition: opacity ease 0.3s;
+}
+.bc-splice.bc--success .bc-splice__prompt--success {
+    z-index: 3;
+    opacity: 1;
+}
+.bc-splice__prompt--fail {
+    background: #FF6666;
+    opacity: 0;
+    -ms-transition: opacity ease 0.3s;
+    transition: opacity ease 0.3s;
+}
+.bc-splice.bc--fail .bc-splice__prompt--fail {
+    z-index: 3;
+    opacity: 1;
+}
+
+.bc-splice__prompt--success:before, 
+.bc-splice__prompt--fail:before,
+.bc-splice__button--update:before, 
+.bc-splice__button--close:before,
+.bc-splice__button--slide:before {
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 100%;
+    overflow: hidden;
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAAoCAMAAACMwkUuAAAC91BMVEUAAAD///77+/vj39nAz9t0dHT8/fz////8/fzu3clra2v7/f709PTe3t6pzezszKbM2OL+///////4+Pjw8PH9/Pv0/P/e5/Do6Oj////+/v71+fz7/v/u7u79+vb0+v3g4OD49vXu1bbP1tys0O+tzObI0tvuz6qdq7pxcXFwcHD//fv49vTt7ezo8vvm5ub+/v7r6+v5/f/7+/v9+PL6+vr49fL++O/s9vz469r57+L36djm6Onz6+P//Pf2+PjV6Pjx5NXT5/ba3uKrz+3R3urlx6WaxOqy1/Pnx6LlxaJ1dXWgyer49vX3+/79+/f8+/j////x+P39+/br9Pzr6+v89Ov6+ffo8fnu7u7+/v329/j48en09PP//ff78+fx6d///ffe5u7f6/T169/w7unp8ff15tHJ4PLY5fHt8fPs5uDQ3OjD3/Xy6d3V5PG91+zRyL/e4ePrx5zUx7qiwuD++/j5/P7u9fr99/H59/X3+fr//Prt7ez78+r8/Pz0+fz29/f37uPp6eni4uLv9vvo9P368OX18Ova2tru9Pni7vb////36db49O/v6+fh4uTg6PH29fT++/Dj8fvk4Nz46df58OTZ6/jr4dfT5PPr6OTk4uDo4NazyuTX4+3p5eD45s31/f7q3M3s+P3/+e/o8/vmw5u+2O3r2MK4u73l28/i18nU6Pby7OW3ydmozev3/v/09ffh8fvz9fjn7fL7+/v97Nnm8vzq6ur04MnY5vPp9Pv3/P/v8/bj8Pr679/w7/D9+vHt9PnS4/LF2enu3Mrd5u7x9PXC1+ux0+/p7/Tx2r/r1r7Z7PrY0szB3vW3t7fn493r1rz99+ussrjt0a63x9aUveDr3cvy1rORvOLO2+eFhYWCgoJ6enr/+Oj7///v8fLw6ODm7vXa5vPExMTn6uzh3drQ4vHr+f/Y19Xm+//56tT117L66M765crv2b7038PnxZ/w1a+RtN3KxL/////7/f7//vz9/f////7m9//kdCJNAAAA93RSTlMAQz4GBAjX+0srE/vmwDcfC/ft69m7RycO+PTx7djXzcS1XVUyJhgRCwsE/t3X09PQ0M/Pz8vLxbSzr6+srKigoHRwb0pFOC8qJxsaDvn49u7h39/a1tXT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");
+    background-size: 100px 20px;
+    background-repeat: no-repeat;
+}
+
+.bc-splice__prompt--success:before, 
+.bc-splice__prompt--fail:before {
+    margin-right: 3px;
+    background-position: -20px center;
+}
+.bc-splice__prompt--fail:before {
+    background-position: -40px center;
+}
+
+.bc-splice__prompt--ready:after,
+.bc-splice__prompt--start:after,
+.bc-splice__prompt--slide:after,
+.bc-splice__prompt--check:after,
+.bc-splice__prompt--success:after,
+.bc-splice__prompt--fail:after {
+    display: inline-block;
+    height: 100%;
+    color: #fff;
+    font-family: \5FAE\8F6F\96C5\9ED1, Arial, sans-serif;
+    font-size: 14px;
+    overflow: hidden;
+}
+.bc-splice__prompt--ready:after {
+    content: "正在快速生成中...";
+}
+.bc-splice__prompt--start:after {
+    content: "点击开始验证";
+    color: #666;
+}
+.bc-splice__prompt--slide:after {
+    content: "向右拖动完成拼图";
+    color: #66CCFF;
+}
+.bc-splice__prompt--check:after {
+    content: "正在验证中...";
+}
+.bc-splice__prompt--success:after {
+    content: "验证成功";
+}
+.bc-splice__prompt--fail:after {
+    content: "验证失败";
+}
+
+.bc-splice__button--update, 
+.bc-splice__button--close {
+    position: absolute;
+    top: 5px;
+    z-index: 3;
+    color: #fff;
+    font-size: 20px;
+    line-height: 1;
+    cursor: pointer;
+}
+.bc-splice__button--update {
+    right: 25px;
+}
+.bc-splice__button--close {
+    right: 5px;
+}
+.bc-splice__button--slide {
+    position: relative;
+    z-index: 2;
+    float: right;
+    width: 45px;
+    height: 100%;
+    text-align: center;
+    background: #38bdff;
+    cursor: pointer;
+}
+
+.bc-splice__button--update:before, 
+.bc-splice__button--close:before {
+    content: "";
+    display: block;
+    height: 20px;
+    background-position: center right;
+}
+.bc-splice__button--close:before {
+    background-position: -60px center;
+}
+.bc-splice__button--slide:before {
+    background-position: center left;
+}

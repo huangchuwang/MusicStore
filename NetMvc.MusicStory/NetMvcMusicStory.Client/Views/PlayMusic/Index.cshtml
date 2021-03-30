@@ -1,0 +1,332 @@
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!doctype html>
+<html data-n-head-ssr>
+
+<head>
+    <title>阿里旺旺音乐</title>
+    <meta data-n-head="ssr" charset="utf-8">
+    <meta data-n-head="ssr" name="viewport" content="width=device-width, initial-scale=1">
+    <meta data-n-head="ssr" http-equiv="Cache-Control" content="no-transform">
+    <meta data-n-head="ssr" http-equiv="Cache-Control" content="no-siteapp">
+    <meta data-n-head="ssr" data-hid="description" name="description"
+          content="阿里旺旺音乐网提供无损音乐，高品质音乐，HiFi音乐下载，无损音乐在线听，好音质，用阿里旺旺。">
+    <link data-n-head="ssr" rel="icon" type="image/x-icon" href="">
+    <link data-n-head="ssr" rel="canonical" href="http://m.kuwo.cn/newh5app/play_detail/6477626">
+    <script src="~/Content/Ui/MusicPlaying/Home/js/jquery-3.4.1.js" type="text/javascript" charset="utf-8"></script>
+    <script src="~/Content/Ui/MusicPlaying/Home/boostrap/bootstrap.bundle.js" type="text/javascript" charset="utf-8"></script>
+    <script src="~/Content/Ui/MusicPlaying/Home/boostrap/bootstrap.js" type="text/javascript" charset="utf-8"></script>
+    <script src="~/Content/Ui/MusicPlaying/Home/Swiper/swiper.js" type="text/javascript" charset="utf-8"></script>
+    <script src="~/Content/Ui/MusicPlaying/Home/js/lazyload.js" type="text/javascript" charset="utf-8"></script>
+    <script src="~/Content/Ui/MusicPlaying/MusicPlayingModule/layer/layer.js"></script>
+    <link rel="stylesheet" type="text/css" href="~/Content/Ui/MusicPlaying/Home/boostrap/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/Ui/MusicPlaying/Home/Swiper/swiper.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/Ui/MusicPlaying/Home/css/MyStyle.css" />
+    <link href="~/Content/Ui/MusicPlaying/MusicPlayingModule/css/index.css" rel="stylesheet" />
+    <link href="~/Content/Ui/MusicPlaying/MusicPlayingModule/PingXing/star-rating.css" rel="stylesheet" />
+    <link href="~/Content/Ui/MusicPlaying/MusicPlayingModule/layer/theme/default/layer.css" rel="stylesheet" />
+</head>
+
+<body onbeforeunload="return myFunction()">
+    <input id="albumid" type="hidden" value="@ViewBag.id" />
+    <input id="useraccount" type="hidden" value="@Session["User"]" />
+    <input id="usericon" type="hidden" value="@Session["Icon"]" />
+    <!--预加载-->
+    <div id="bonfire-pageloader">
+        <div class="bonfire-pageloader-icon">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+            <path id="loading-12-icon" d="M291,82.219c0,16.568-13.432,30-30,30s-30-13.432-30-30s13.432-30,30-30S291,65.65,291,82.219z
+             M261,404.781c-15.188,0-27.5,12.312-27.5,27.5s12.312,27.5,27.5,27.5s27.5-12.312,27.5-27.5S276.188,404.781,261,404.781z
+             M361.504,113.167c-4.142,7.173-13.314,9.631-20.487,5.489c-7.173-4.141-9.631-13.313-5.49-20.487
+             c4.142-7.173,13.314-9.631,20.488-5.489C363.188,96.821,365.645,105.994,361.504,113.167z M188.484,382.851
+             c-14.348-8.284-32.697-3.368-40.98,10.98c-8.285,14.349-3.367,32.696,10.98,40.981c14.35,8.283,32.697,3.367,40.98-10.981
+             C207.75,409.482,202.834,391.135,188.484,382.851z M421.33,184.888c-8.368,4.831-19.07,1.965-23.901-6.404
+             c-4.832-8.368-1.965-19.07,6.404-23.902c8.368-4.831,19.069-1.964,23.9,6.405C432.566,169.354,429.699,180.056,421.33,184.888z
+             M135.399,329.767c-8.285-14.35-26.633-19.266-40.982-10.982c-14.348,8.285-19.264,26.633-10.979,40.982
+             c8.284,14.348,26.632,19.264,40.981,10.98C138.767,362.462,143.683,344.114,135.399,329.767z M436.031,277.249
+             c-11.044,0-20-8.953-20-19.999c0-11.045,8.955-20.001,20.001-20.001c11.044,0,19.999,8.955,19.999,20.002
+             C456.031,268.295,447.078,277.249,436.031,277.249z M115.97,257.251c-0.001-16.57-13.433-30.001-30.001-30.002
+             c-16.568,0.001-29.999,13.432-30,30.002c0.001,16.566,13.433,29.998,30.001,30C102.538,287.249,115.969,273.817,115.97,257.251z
+             M401.333,364.248c-10.759-6.212-14.446-19.97-8.234-30.73c6.212-10.759,19.971-14.446,30.731-8.233
+             c10.759,6.211,14.445,19.971,8.232,30.73C425.852,366.774,412.094,370.46,401.333,364.248z M135.398,184.736
+             c8.285-14.352,3.368-32.698-10.98-40.983c-14.349-8.283-32.695-3.367-40.981,10.982c-8.282,14.348-3.366,32.696,10.981,40.981
+             C108.768,204,127.115,199.082,135.398,184.736z M326.869,421.328c-6.902-11.953-2.807-27.242,9.148-34.145
+             s27.243-2.806,34.146,9.149c6.902,11.954,2.806,27.243-9.15,34.145C349.059,437.381,333.771,433.284,326.869,421.328z
+             M188.482,131.649c14.352-8.286,19.266-26.633,10.982-40.982c-8.285-14.348-26.631-19.264-40.982-10.98
+             c-14.346,8.285-19.264,26.633-10.98,40.982C155.787,135.017,174.137,139.932,188.482,131.649z"></path>
+        </svg>
+        </div>
+    </div>
+    <!-- 预加载 -->
+    <div class="main ">
+        <div>
+            <div class="gc" id="gc">
+                <div class="gc-in">
+                    <div class="row">
+                        <div class="col-lg-5 disk hidden-sm hidden-md hidden-xs">
+                            <div style="position: absolute; top: 70px; width: 400px;">
+                                <img src="~/Content/Ui/MusicPlaying/MusicPlayingModule/img/t018168f8b9452114af.jpg" id="disk_img" class="disk-img" />
+                            </div>
+                        </div>
+                        <div class="col-lg-7 col-sm-12   col-md-12  col-xs-12   kfc-list">
+                            <ul id="kfc-list-ul"></ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <br />
+        <br />
+        <br />
+        <br />
+        <div class="main_con">
+            <div class="content_">
+                <div class="info_l">
+                    <div class="cover_out">
+                        <img id="AlbumImg" src="~/Content/UploaFile/Photo/No_cover.jpg" class="cover">
+                        <img src="https://h5static.kuwo.cn/www/kw-www/img/album_cover_record.d7ec8ae.png" alt="" class="record">
+                    </div>
+                    <p class="intr">专辑简介 </p>
+                    <p id="AlbumDe" class="intr_txt">
+                        暂无简介
+                    </p>
+                    <div class="download bg_primary">
+                        <a style="text-decoration:none" href="/ShoppingCart/CreateShoppingcartItems?Albumid=@ViewBag.id" class="download bg_primary">
+                            <i></i>+ 加入购物车
+                        </a>
+                    </div>
+                    <div class="qrcode-container">
+                    </div>
+                </div>
+                <div class="info_r">
+                    <input id="songinfo-name" type="hidden" value="专辑">
+                    <div class="primary">
+                        <h1 style="display: none">专辑</h1>
+                        <p class="song_name flex_c">
+                            <span id="albumname" class="name">
+                                暂无专辑
+                                <i class="has_mv iconfont icon-icon_mv_" style="display:none;"></i>
+                            </span>
+                        </p>
+                        <p class="artist_name flex_c">
+                            <span id="artistname" class="name">暂无歌手</span>
+                            <!---->
+                        </p>
+                        <p class="song_info">
+                            <span>流派：</span>
+                            <span id="genrename" class="tip">未知</span>
+                            <span>发行时间：</span>
+                            <span id="albumdate" class="time">未知</span>
+                            <span>播放量：</span>
+                            <span id="playnumber" class="tip1">未知</span>
+                        </p>
+                        <div class="btns">
+                            <button style="outline:none;" class="play bg_primary" onclick="play()">
+                                <i class="iconfont icon-icon_play_"></i><span>立即播放</span>
+                            </button>
+                            <!--
+                            <button style="outline:none;" class="but">
+                                <i class="iconfont icon-playlist_icon_add_"></i><span>添加</span>
+                            </button>-->
+                            <button style="outline:none;" onclick="Praise()" id="praise">
+                            </button>
+                            <button style="outline:none;" onclick="Share_Open()">
+                                <i class="iconfont icon-mv_icon_share_"></i><span>分享</span>
+                            </button>
+                            <button style="outline:none;" onclick="Comment_Open()">
+                                <i class="iconfont icon-bar_icon_ncomment_"></i><span>评论</span>
+                            </button>
+                        </div>
+
+                        <div>
+                            <div id="lyric" class="lyric" style="max-height:429px;">
+                                <div>
+                                    <div class="list_head head_name_album">
+                                        <ul class="flex_c">
+                                            <li class="head_num">序号</li>
+                                            <li class="head_name">歌曲</li>
+                                            <li class="head_artist">歌手</li>
+                                            <li class="head_time">时长</li>
+                                        </ul>
+                                    </div>
+                                    <ul id="music-list" class="album_list"></ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!--翻页开始-->
+                        <div class="page-wrap">
+                            <ul class="flex_c" id="page"></ul>
+                        </div>
+                        <!--翻页结束-->
+                        <div class="down" style="display:none;">
+                            <span>
+                                展开
+                                <i class="iconfont icon-bar_icon_arrow_"></i>
+                            </span>
+                        </div>
+                        <!---->
+                    </div>
+
+
+                    <!--<div id="com" style="display: none;">-->
+                        <!-- 评论框 -->
+                        <!--<div class="form-group" style="text-align:center; margin-top:3%;">
+                            <label for="name">评论</label>
+                            <input style="margin:auto 10%; width:80%;" type="text" class="form-control" id="content"
+                                   placeholder="请输入评论内容，注意文明用语">
+                        </div>-->
+
+                        <!-- 评星 -->
+                        <!--<div class="star-rating rating-lg rating-active" style="text-align:center;">
+                            <div id="starzjd" class="rating-container rating-gly-star" data-content="">
+                                <div id="rating-stars" class="rating-stars" data-content="" style="width: 100%;">
+                                </div>
+                            </div>
+                            <div class="caption">
+                                <span id="star" class="label label-default">5</span>星
+                            </div>
+                        </div>
+                        <br />
+                        <button type="button" class="btn btn-default" style="border-color: #CED4DA;margin:auto 45%; width:10%;" onclick="Comment()">发表</button>
+                    </div>-->
+
+                    <!-- 评论列表 -->
+                    <div id="comment_con" class="comment_con">
+                        <section class="all-comment" style="display:;">
+                            <section id="comment-list" class="all-comment">
+                                <!-- 评论 -->
+                            </section>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    @*<div id="content22">
+            <a id="dianji">点击</a>
+            <div id="disappare" style="display:none;">
+                <h2>提示信息</h2>
+                <p>3秒后我会自动消失3秒后我会自动消失</p>
+            </div>
+        </div>*@
+    <div id="playControl" class="playControl nolock">
+        <div class="playControl_inn">
+            <div class="control_out">
+
+                <div id="nowlrc" style="display:none;"></div>
+                <div class="lock"><i id="Control_icon" class="iconfont  icon-bar_icon_unlock_"></i></div>
+                <div class="posi_re">
+                    <div class="control">
+                        <div class="con_l flex_c">
+                            <div class="cover" style="z-index:0;"></div>
+                            <img src="~/Content/UploaFile/Photo/20201225112215_陈冠希.jpg" onclick="show()" id="song_img" class="song_img" style="z-index:999;">
+                            <div>
+                                <div class="flex_c info_con">
+                                    <div class="info">
+                                        <div style="display:none;">
+                                            <span class="song_name"></span>
+                                            <span class="artist"> - </span>
+                                        </div>
+                                        <div id="music-name">买音乐，就上阿里旺旺音乐商城</div>
+                                    </div> <span id="time" class="time">00:00/00:00</span>
+                                </div>
+                                <div id="progress" class="process jdt wc">
+                                    <div class="progress_bar">
+                                        <div class="bar_inner">
+                                            <div id="jd" class="progress" style="width:50%;"></div>
+                                            <div id="yuan" class="progress_btn_wrapper"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col_c flex_c no_list">
+                            <div id="last" title="上一首" class="prev">
+                                <i class="iconfont icon-bar_icon_pre_"></i>
+                            </div>
+                            <div id="play" title="播放" class="play">
+                                <i id="playicon" class="iconfont icon-bar_icon_play_1"></i>
+                            </div>
+                            <div id="next" title="下一首" class="next">
+                                <i class="iconfont icon-bar_icon_next_"></i>
+                            </div>
+                        </div>
+                        <div class="col_r flex_c">
+                            <i id="praise2" onclick="Praise()"><i title="点赞歌曲" class="prev icon_heart iconfont icon-bar_icon_heart_"></i></i>
+                            <i onclick="downsong()" title="下载歌曲" class="prev iconfont icon-bar_icon_download_"></i> <a style="text-decoration:none" href="#comment_con"><i title="评论" class="prev iconfont icon-lyric_icon_comment_"></i></a> <span>
+                                <i title="循环播放" class="prev iconfont icon-bar_icon_loop_" style="display:;"></i><i title="单曲循环" class="prev iconfont icon-bar_icon_repeat_" style="display:none;"></i><i title="顺序播放" class="prev iconfont icon-bar_icon_list_" style="display:none;"></i><i title="随机播放" class="prev iconfont icon-bar_icon_random_" style="display:none;"></i>
+                            </span>
+                            <span class="playList">
+                                <!----> <i title="歌曲列表" class="prev iconfont icon-bar_icon_playlistfuzhi"></i>
+                            </span>
+                            <div class="song_type">
+                                <span title="品质">无损</span><i class="iconfont icon-bar_icon_arrow_"></i>
+                                <div class="type_out">
+                                    <ul class="items" style="display:none;">
+                                        <li style="display:none;">无损</li>
+                                        <li class="active">高品</li>
+                                    </ul>
+                                </div>
+                            </div> <i id="mute" title="音量" class="iconfont icon-bar_icon_mute volume_icon" style="display:none;"></i> <i id="relieve" title="音量" class="iconfont icon-bar_icon_volume_ volume_icon" style="display:;"></i>
+                            <div class="volume" id="volumejdt">
+                                <div class="progress_bar">
+                                    <div class="bar_inner">
+                                        <div id="volumejd" class="progress" style="width:43px;"></div>
+                                        <div class="progress_btn_wrapper"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <audio src="" id="au"></audio>
+    <div id="autime"></div>
+</body>
+
+</html>
+<script src="~/Content/Ui/MusicPlaying/MusicPlayingModule/js/index.js"></script>
+<script src="~/Content/Ui/MusicPlaying/MusicPlayingModule/PingXing/previewjs_3.JS"></script>
+
+<script>
+    //预加载
+    $(function () {
+        jQuery(window).resize(function () {
+            resizenow();
+        });
+        function resizenow() {
+            var browserwidth = jQuery(window).width();
+            var browserheight = jQuery(window).height();
+            jQuery('.bonfire-pageloader-icon').css('right', ((browserwidth - jQuery(".bonfire-pageloader-icon").width()) / 2)).css('top', ((browserheight - jQuery(".bonfire-pageloader-icon").height()) / 2));
+        };
+        resizenow();
+    })
+
+    //是否已经打开歌词窗口标记
+    var flag = true;
+
+    function show() {
+        if (au.readyState == 0) {
+            alert("未选中音乐！");
+        }
+        else {
+            $("#gc").removeClass("gc3");
+
+            if (flag) {
+                $("#gc").addClass("gc2");
+            } else {
+                $("#gc").addClass("gc3");
+            }
+            flag = !flag;
+        }
+    }
+</script>

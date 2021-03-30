@@ -1,0 +1,770 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <meta charset="utf-8" />
+    <title>MusicStore</title>
+    <link rel="stylesheet" type="text/css" href="~/Content/Ui/Home_plus/Swiper/swiper.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/Ui/Home_plus/css/MyStyle.css" />
+    <script src="~/Content/Ui/Home_plus/js/jquery-3.4.1.js" type="text/javascript" charset="utf-8"></script>
+    <script src="~/Content/Ui/Home_plus/boostrap/bootstrap.bundle.js" type="text/javascript" charset="utf-8"></script>
+    <script src="~/Content/Ui/Home_plus/boostrap/bootstrap.js" type="text/javascript" charset="utf-8"></script>
+    <script src="~/Content/Ui/Home_plus/Swiper/swiper.js" type="text/javascript" charset="utf-8"></script>
+    <script src="~/Content/Ui/Home_plus/js/lazyload.js" type="text/javascript" charset="utf-8"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="~/Content/Ui/Home_plus/boostrap/bootstrap-4.5.0/css/bootstrap.css"><!--下划线-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Ui/Home_plus/testStyle/Selection.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/Ui/Home_plus/search/c1.css" /><!--页脚-->
+</head>
+
+<body style="padding-top:3.625rem;">
+    <input id="useraccount" type="hidden" value="@Session["User"]" />
+    <input id="UrlString" type="hidden" value="" />
+    <div class="container-fluid">
+        <div class="row justify-content-center header">
+            <div class="col-12">
+                <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
+                    <a class="navbar-brand text-info" href="#">
+                        <img src="/Content/Ui/Home/img/computer.png" width="30" height="30" class="d-inline-block align-top" alt="">
+                        MusicStore
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse"
+                            data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
+                            aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                        <ul class="navbar-nav mr-auto" id="headlabel">
+                            <li class="nav-item active dropdown">
+                                <a class="nav-link" href="/Home/Index">首页 <span class="sr-only">(current)</span></a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link" href="#">最新</a>
+                            </li>
+                            <li class="nav-item active dropdown">
+                                <a class="nav-link" href="#">热门 <span class="sr-only">(current)</span></a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link" href="#">MV</a>
+                            </li>
+
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            @*搜索*@
+                            <li class="nav-item dropdown">
+                                <form method="get" action="/Home/Search" class="form-inline my-2 my-lg-0">
+                                    <input name="name" style="width: 300px; height: 35px;box-shadow:none;" class="form-control form-control-sm mr-sm-2 bg-dark text-white" type="search" placeholder="请输入专辑名称"
+                                           aria-label="Search">
+                                    <button class="btn my-2 my-sm-0" type="submit">
+                                        <img src="/Content/Ui/Home/img/grabble.png" width="32" height="32" class="d-inline-block align-top" alt="">
+                                    </button>
+                                </form>
+                            <li>
+                        </ul>
+
+
+
+                        <!-- 购物车 -->
+                        <button type="button" data-toggle="modal" id="myModa3" data-target="#shoppingcar" style="background:cornflowerblue;" class="btn ">
+                            购物车
+                        </button>
+                        &nbsp;	&nbsp;	&nbsp;
+                        <!-- 登录按钮 -->
+                        <button data-toggle="modal"
+                                data-target="#longinInfo" id="myModal" style="background:cornflowerblue;" class="btn loginbtn">
+                            登录
+                        </button>
+                        &nbsp;	&nbsp;	&nbsp;
+                        <!-- 注册按钮 -->
+                        <button class="btn loginbtn" type="button" data-toggle="modal"
+                                data-target="#restInfo" style="background:cornflowerblue;" id="myModa2">
+                            注册
+                        </button>
+
+
+
+                        @*<button id="fat-btn" class="btn btn-primary" data-loading-text="Loading..."
+                                    type="button">
+                                加载状态
+                            </button>*@
+
+                        <!-- 登录弹框-->
+                        <form method="post" id="logindata" onsubmit="return false;">
+                            <div class="modal fade" id="longinInfo" tabindex="1" role="dialog"
+                                 aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered" role="document">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="exampleModalCenterTitle">欢迎登录</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <!-- 登录表单内容 -->
+                                            <div class="col-12 mb-3">
+                                                <div class="col-auto my-1">
+                                                    用户名
+                                                </div>
+                                                <input type="text" name="username" class="form-control" id="exampleFormControlInput1"
+                                                       placeholder="请输入用户名">
+                                            </div>
+                                            <div class="col-12 mb-3">
+                                                <div class="col-auto my-1">
+                                                    密码
+                                                </div>
+                                                <input type="password" name="password" class="form-control" id="exampleFormControlInput1"
+                                                       placeholder="请输入密码">
+                                            </div>
+                                            <div class="col-12 mt-2">
+                                                <button id="login" class="btn btn-primary btn-md btn-block" data-loading-text="登录中..." type="button">登录</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+
+                        &nbsp;&nbsp;
+                        <style>
+                            #formin {
+                                padding: 100px;
+                            }
+                        </style>
+
+                        <div class="modal fade" id="restInfo" tabindex="1" role="dialog"
+                             aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalCenterTitle">欢迎注册</h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <!-- 注册表单内容 -->
+                                    <form method="post" id="signindata" onsubmit="return false;">
+                                        <div class="modal-body">
+
+                                            <div class="col-12 mb-3">
+                                                <div class="col-auto my-1">
+                                                    昵称
+                                                </div>
+                                                <input type="text" name="name" class="form-control" id="exampleFormControlInput1"
+                                                       placeholder="请输入用户名">
+                                            </div>
+                                            <div class="col-12 mb-3">
+                                                <div class="col-auto my-1">
+                                                    账号
+                                                </div>
+                                                <input type="number" name="username" class="form-control" id="exampleFormControlInput1"
+                                                       placeholder="请输入用户名">
+                                            </div>
+                                            <div class="col-12 mb-3">
+                                                <div class="col-auto my-1">
+                                                    密码
+                                                </div>
+                                                <input type="password" name="pass" class="form-control" id="exampleFormControlInput1"
+                                                       placeholder="请输入密码">
+                                            </div>
+                                            <div class="col-12 mb-3">
+                                                <div class="col-auto my-1">
+                                                    确认密码
+                                                </div>
+                                                <input type="password" name="passs" class="form-control" id="exampleFormControlInput1"
+                                                       placeholder="请再次输入密码">
+                                            </div>
+                                            <div class="col-12 mb-3">
+                                                <div class="col-auto my-1">
+                                                    邮箱
+                                                </div>
+                                                <input type="email" name="email" class="form-control" id="exampleFormControlInput1"
+                                                       placeholder="请输入用户名">
+                                            </div>
+                                            <div class="col-12 mb-3">
+                                                <div class="row">
+                                                    <div class=" col-12 ml-3 custom-control custom-checkbox">
+                                                        <input type="checkbox" class="custom-control-input"
+                                                               id="customCheck1">
+                                                        <label class="custom-control-label text-primary"
+                                                               for="customCheck1">同意协议</label>
+                                                    </div>
+                                                    <div class="col-12 mt-2">
+                                                        <button id="signin" class="btn btn-primary btn-md btn-block" data-loading-text="正在进行注册操作..." type="button">
+                                                            注册
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        @*购物车页面*@
+                        <!-- 注册表单内容 -->
+                        <form method="post" onsubmit="return false;">
+                            <div class="modal fade" id="shoppingcar" tabindex="1" role="dialog"
+                                 aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered" role="document">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="exampleModalCenterTitle">购物车</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <!-- 登录表单内容 -->
+                                            <h1>暂无数据</h1>
+
+                                            @*<div class="col-12 mt-2">
+                                                    <button type="submit" onclick="LoginOpen();" class="btn btn-primary btn-md btn-block">登录</button>
+                                                </div>*@
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+
+
+                        @*用户信息*@
+                        <li id="uinfo" style="margin: 0 0 0 0;padding: 0 0 0 0;" class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <img class="rounded-circle" height="60px" id="icon" alt="icon" />
+                                @*<span>用户名<span class="caret"></span></span>*@
+                            </a>
+                            <div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
+                                <button class="dropdown-item text-secondary" href="#">个人信息</button>
+                                <button class="dropdown-item text-secondary" href="#">修改密码</button>
+                                <button class="dropdown-item text-secondary" onclick="Clear()">清空缓存</button>
+                                <button class="dropdown-item text-secondary" onclick="LoginOut()">退出登录</button>
+                            </div>
+                        </li>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <!--中间内容开始-->
+    <div class="col-md-6 order-md-1 offset-3" style="padding-top:45px;">
+        <h4 class="mb-3">个人信息修改</h4>
+        <form class="needs-validation" novalidate="novalidate" action="">
+            <div class="row">
+
+                <!--头像开始-->
+                <div class="col-md-6 mb-6">
+                    <div id="FormContent">
+                        <div id="FormUpload" enctype="multipart/form-data" method="post">
+                            <span class="btn btn-primary fileinput-button">
+                                <i class="glyphicon glyphicon-plus"></i>
+                                <span>本地选择头像</span>
+                                <input type="file" name="UploadFile" id="UploadFile" onchange="UpFileImg()" />
+                            </span>
+                        </div>
+                        <div class="InfoContainer">
+                            <div id="Imagecontainer"></div>
+                            <div id="FileName" class="info">
+                            </div>
+                            <div id="FileType" class="info">
+                            </div>
+                            <div id="FileSize" class="info">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--头像结束-->
+
+                <div class="col-md-6 mb-3">
+                    <label class="firstName">账号</label>
+                    <input type="text" class="form-control" id="Account" placeholder="账号" value="" readonly>
+                    <div class="invalid-feedback">
+                        账号
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label for="email">
+                    用户名
+                </label>
+                <input type="email" class="form-control" id="Name" placeholder="用户名" required>
+                <div class="invalid-feedback">
+                    用户名
+                </div>
+            </div>
+
+            @*<div class="mb-3">
+                    <label for="email">
+                        确认密码
+                    </label>
+                    <input type="email" class="form-control" id="email" placeholder="请再次输入需要修改的密码" required>
+                    <div class="invalid-feedback">
+                        请再次输入需要修改的密码
+                    </div>
+                </div>*@
+
+            <div class="mb-3">
+                <label for="email">
+                    E-mail邮箱
+                </label>
+                <input type="email" class="form-control" id="Email" placeholder="请输入邮箱" required>
+                <div class="invalid-feedback">
+                    请输入您的邮箱以备不时之需
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label for="address">注册时间</label>
+                <input type="text" class="form-control" id="Create_time" placeholder="注册时间" readonly>
+                <div class="invalid-feedback">
+                    注册时间
+                </div>
+            </div>
+
+            @*<div class="mb-3">
+                    <label for="address2">
+                        旺龄
+                    </label>
+                    <input type="text" class="form-control" id="address2" placeholder="阿里旺旺音乐用户年龄">
+                </div>*@
+
+            @*<div class="row">
+                    <div class="col-md-3 mb-3">
+                        <label for="country">国家</label>
+                        <select class="custom-select d-block w-100" id="country" required>
+                            <option value="">请选择</option>
+                            <option>中国</option>
+                            <option>中国香港</option>
+                            <option>中国澳门</option>
+                            <option>中国台湾</option>
+                            <option>日本</option>
+                        </select>
+                        <div class="invalid-feedback">
+                            请选择一个地区
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 mb-3">
+                        <label for="state">地区</label>
+                        <select class="custom-select d-block w-100">
+                            <option vlaue="">请选择</option>
+                            <option>北京</option>
+                            <option>上海</option>
+                            <option>广州</option>
+                            <option>深圳</option>
+                            <option>湖北</option>
+                            <option>东京</option>
+                        </select>
+                        <div class="invalid-feedback">
+                            请输入所在省市
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 mb-3">
+                        <label for="zip">街道</label>
+                        <input type="text" class="form-control" id="zip" placeholder="天安门" required>
+                        <div class="invalid-feedback">
+                            请输入街道
+                        </div>
+                    </div>
+                </div>*@
+            <hr class="mb-4">
+            <button class="btn btn-primary btn-lg btn-block" type="button" onclick="EditUser()">提交修改</button>
+        </form>
+    </div>
+    <!--中间内容结束-->
+    <!--页脚开始-->
+    <div data-v-c48b221a>
+        <div class="footer" data-v-c48b221a>
+            <div class="container" data-v-c48b221a>
+                <div class="foot_tit" data-v-c48b221a>
+                    <p data-v-c48b221a>多平台支持</p>
+                    <p data-v-c48b221a>协议与声明</p>
+                    <p data-v-c48b221a>其它</p>
+                </div>
+                <div class="foot_info" data-v-c48b221a>
+                    <div class="item" data-v-c48b221a>
+                        <ul class="download" data-v-c48b221a>
+                            <li data-v-c48b221a>
+                                <a data-v-c48b221a>
+                                    <i class="iconfont icon-banner_icon_windows_" data-v-c48b221a></i>
+                                    <span data-v-c48b221a>PC</span>
+                                </a>
+                            </li>
+                            <li data-v-c48b221a>
+                                <a data-v-c48b221a>
+                                    <i class="iconfont icon-banner_icon_android_" data-v-c48b221a></i>
+                                    <span data-v-c48b221a>Android</span>
+                                </a>
+                            </li>
+                            <li data-v-c48b221a>
+                                <a data-v-c48b221a>
+                                    <i class="iconfont icon-footer_pic_iphone_" data-v-c48b221a></i>
+                                    <span data-v-c48b221a>iPhone</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="item" data-v-c48b221a>
+                        <p data-v-c48b221a>
+                            <a target="_blank" rel="nofollow" href="" data-v-c48b221a>用户服务协议</a>
+                            <a target="_blank" rel="nofollow" href="" data-v-c48b221a>隐私政策</a>
+                        </p>
+                        <p data-v-c48b221a>
+                            <a target="_blank" rel="nofollow" href="https://www.ibw.cn/mianze.htm" data-v-c48b221a>免责声明</a>
+                            <a target="_blank" rel="nofollow" href="" data-v-c48b221a>权利声明</a>
+                        </p>
+                    </div>
+                    <div class="item" data-v-c48b221a>
+                        <p data-v-c48b221a>
+                            <a target="_blank" rel="nofollow" href="" data-v-c48b221a>联系我们</a>
+                            <a target="_blank" rel="nofollow" href="" data-v-c48b221a>广告服务</a>
+                        </p>
+                        <p data-v-c48b221a>
+                            <span class="text_line" data-v-c48b221a>
+                                <a target="_blank" rel="nofollow" href="" style="margin-right: 40px" data-v-c48b221a>音乐商店</a>
+                                <a target="_blank" rel="nofollow" href="" data-v-c48b221a>诚聘英才</a>
+                            </span>
+                            <span class="text_line" data-v-c48b221a>
+
+                                <a target="_blank" rel="nofollow" href="https://www.12377.cn/" data-v-c48b221a>网上有害信息举报专区</a>
+                            </span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copy" data-v-c48b221a>
+            <div class="text container" data-v-c48b221a>
+                <p data-v-c48b221a>
+                    <a target="_blank" href="https://www.lzzy.net/" data-v-c48b221a>柳州职业技术学院</a> 丨
+                    <a target="_blank" href="http://dzxx.lzzy.net/" data-v-c48b221a>电子信息工程学院</a>
+                    <a target="_blank" href="" style="display:none;" data-v-c48b221a></a> 丨 联系我们：13666669931 丨
+                    <a target="_blank" href="../resource/doc/icp.pdf" data-v-c48b221a>QQ：9999668786</a>
+                </p>
+                <p data-v-c48b221a>
+                    <a target="_blank" href="" data-v-c48b221a>音乐相关</a>丨
+                    <a target="_blank" href="" data-v-c48b221a>关于我们</a>丨
+                    <a target="_blank" href="" data-v-c48b221a>调查问卷</a>丨
+                    <a target="_blank" href="" data-v-c48b221a>意见反馈</a>丨
+                    <a target="_blank" href="" data-v-c48b221a>隐私说明</a>丨
+                    <span data-v-c48b221a>
+                        <a target="_blank" href="https://www.12377.cn/" data-v-c48b221a>坚决抵制不良信息和违反信息</a>
+                    </span>
+                </p>
+                <p data-v-c48b221a>举报电话：666-66666666 丨 举报邮箱：jubao@123.ww</p>
+            </div>
+        </div>
+        <div class="model" style="display:none;" data-v-72d4e460 data-v-c48b221a>
+            <div class="tit" data-v-72d4e460>
+                <span style="display:none;" data-v-72d4e460>阿里旺旺音乐Android最新版</span>
+                <span style="display:none;" data-v-72d4e460>阿里旺旺音乐iphone最新版</span>
+                <i class="iconfont icon-list_icon_x" data-v-72d4e460></i>
+            </div>
+            <div data-v-72d4e460>
+                <div class="btns" data-v-72d4e460>
+                    <div class="line" data-v-72d4e460></div>
+                    <div data-v-72d4e460>
+                        <img src="" class="codeimg" data-v-72d4e460>
+                        <p class="tip" data-v-72d4e460>扫描二维码下载</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--页脚结束-->
+
+    <img width="" height="50" />
+    <link rel="stylesheet" type="text/css" href="~/Content/pu_static/pageloader.js" />
+    @Scripts.Render("~/Content/ClientHomes/js")
+    <script type="text/javascript">
+
+        var datas = [];
+        var $tr = '';
+        var DataCount;  //数据条数
+
+        //初始化
+        $(function () {
+
+            Initdata();
+            loginInit();
+            Limit();
+        });
+
+
+        //注册
+        $("#signin").click(function () {
+
+            $(this).button('loading').delay(1000).queue(function () {
+                $(this).button('reset');
+                $(this).dequeue();
+            });
+            var datas = {};
+            var t = $("#signindata").serializeArray();      // serializeArray() 方法通过序列化表单值来创建对象数组（名称和值）
+            $.each(t, function () {                   // 遍历存入数组
+                //value:数据  // name：属性名
+                datas[this.name] = this.value;
+            });
+
+            $.post("/Home/CreateUser", datas, function (res) {
+                if (res.code === 0) {
+                    alert(res.msg);
+                    window.location.reload();//刷新当前窗口
+                } else {
+                    alert(res.msg);
+                    window.location.reload();//刷新当前窗口
+                }
+
+            }, 'json');
+        });
+
+
+
+
+
+        //登录
+        $("#login").click(function () {
+            $(this).button('loading').delay(1000).queue(function () {
+                $(this).button('reset');
+                $(this).dequeue();
+            });
+            var datas = {};
+            var t = $("#logindata").serializeArray();      // serializeArray() 方法通过序列化表单值来创建对象数组（名称和值）
+            $.each(t, function () {                   // 遍历存入数组
+                //value:数据  // name：属性名
+                datas[this.name] = this.value;
+            });
+
+            $.post("/Home/Check", datas, function (res) {
+                //var resuces = JSON.parse(res);
+                if (res.code === 0) {
+                    $.cookie('icon', res.icon, { path: '/' });
+                    $.cookie('name', res.name, { path: '/' });
+                    alert(res.msg);
+                    window.location.reload();//刷新当前窗口
+                } else {
+                    alert(res.msg);
+                }
+
+            }, 'json');
+        });
+
+        //清空缓存
+        function Clear() {
+            var cookies = $.cookie();
+            for (var cookie in cookies) {
+                $.removeCookie(cookie);
+            }
+            var cookie = $.cookie("name")
+            if (cookie == null) {
+                return 0;
+            }
+        }
+
+
+        //清空缓存退出登录
+        function LoginOut() {
+            var statu = Clear();
+            $.post("/Home/Clear", function (res) {
+                if (res == 0 & statu == 0) {
+                    alert("注销成功");
+                    location.href = "/home";
+                }
+
+            }, 'json');
+        }
+
+
+        //读取cookies
+        function getCookie(name) {
+            return $.cookie(name)
+        };
+
+        // 判断cookie是否为空
+        function checkCookie(name) {
+            if (getCookie(name) == null || getCookie(name) == "" || getCookie(name) == "null" || typeof (getCookie(name)) == "undefined" || getCookie(name) == false || getCookie(name) == undefined) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+
+        //登录初始化用户信息页
+        function loginInit() {
+            var u = checkCookie("name");//判断cookie是否为空
+            var icon = getCookie("icon");
+            var name = getCookie("name");
+            if (u == true) {
+                $("#uinfo").hide();
+            } else {
+                $(".loginbtn").hide();
+                $("#icon").attr("src", icon)
+                $("#icon").after('<span>' + name + '<span class="caret"></span></span>');
+            }
+
+        }
+
+        //初始化数据
+        function Initdata() {
+            $.ajax({
+                url: "/Home/GetAlbumData",
+                type: "GET",
+                async: true,
+                dataType: "json",
+                success: function (data) {
+                    datas = data.data;
+                    DataCount = data.count;
+                    init(datas);
+                    styleinit();
+                    NewCar(datas);
+                    Slideshow(data.data);
+                }
+            });
+        }
+
+
+        //隐藏参数请求
+        function post(URL, PARAMS) {
+            var temp_form = document.createElement("form");
+            temp_form.action = URL;
+            temp_form.target = "_blank";
+            temp_form.method = "post";
+            temp_form.style.display = "none";
+            for (var x in PARAMS) {
+                var opt = document.createElement("textarea");
+                opt.name = x;
+                opt.value = PARAMS[x];
+                temp_form.appendChild(opt);
+            }
+            document.body.appendChild(temp_form);
+            temp_form.submit();
+        }
+
+
+
+
+        //加载样式
+        function styleinit() {
+            $("#content>div").mouseover(function () {
+                var index = $(this).index();
+                $("#content>div:eq(" + index + ")>a>img").css({
+                    "transform": "scale(1.05)",
+                    "transition": ".5s"
+                });
+                $("#content>div:eq(" + index + ")>div").show(100);
+            }).mouseleave(function () {
+                var index = $(this).index();
+                $("#content>div:eq(" + index + ")>div").hide(100);
+                $("#content>div:eq(" + index + ")>a>img").css({
+                    "transform": "scale(1)",
+                    "transition": ".5s"
+                });
+            });
+
+            $("#case7>div>div>img").hover(function () {
+                $(this).css({
+                    "transform": "scale(1.5)",
+                    "transition": "1s"
+                })
+            }, function () {
+                $(this).css({
+                    "transform": "scale(0.8)",
+                    "transition": "1s"
+                })
+            });
+
+            $("#headlabel li").hover(function (even) {
+                var index = $(this).index();
+                $("#headlabel>li:eq(" + index + ")").animate({
+                    left: '+5px',
+                }, "slow");
+            }, function () {
+                var index = $(this).index();
+                $("#headlabel>li:eq(" + index + ")").animate({
+                    left: '0px',
+                }, 100);
+            });
+        }
+
+        GetUser();
+        function GetUser() {
+            $.ajax({
+                url: "/Home/GetUser",
+                type: "GET",
+                async: true,
+                dataType: "json",
+                success: function (data) {
+
+                    $("#Account").val(data.data.Account);
+                    $("#Name").val(data.data.Name);
+                    $("#Email").val(data.data.Email);
+                    $("#Create_time").val(data.data.Create_time);
+                }
+            });
+        }
+
+        function EditUser() {
+            if ($("#useraccount").val() == "") {
+                alert("请先登录账号！");
+                return;
+            }
+            var account = $("#Account").val();
+            var name = $("#Name").val();
+            var email = $("#Email").val();
+            var icon = $("#UrlString").val();
+            $.ajax({
+                url: "/Home/Edit_User?account=" + account + "&name=" + name + "&email=" + email + "&icon=" + icon,
+                type: "POST",
+                async: true,
+                dataType: "json",
+                success: function (data) {
+                    alert("修改成功");
+                }, error: function () {
+                    alert("失败");
+                }
+            });
+        }
+
+
+
+        function UpFileImg() {
+            var file = $('#UploadFile').prop('files')[0];
+            var data = new FormData();
+            data.append('imgFile', file);
+
+            $.ajax({
+                type: 'POST',
+                url: '/Home/UploadImgFile',
+                data: data,
+                datatype: 'json',
+                cache: false,
+                processData: false,
+                contentType: false,
+                success: function (ret) {
+                    $("#UrlString").val(ret.imgUrlString);
+                    alert(ret.upMsg);
+                },
+                error: function (ret) {
+                    alert(ret.upMsg);
+                }
+            });
+        }
+    </script>
+</body>
+
+</html>

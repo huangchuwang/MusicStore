@@ -1,0 +1,68 @@
+. *{
+    padding: 0;
+    margin: 0;
+    font-family: "blackadder itc";
+}
+
+img {
+    cursor: pointer;
+}
+
+#case7 img {
+    width: 100%;
+    transform: scale(0.8);
+}
+
+#content img {
+    width: 100%;
+}
+
+#tail p,
+#tail1 ul {
+    width: 100%;
+    margin: 2.5rem 0;
+    list-style: none;
+}
+
+.header img:hover {
+    transform: rotate(360deg);
+    transition: 1s;
+}
+
+.logo {
+    color: white;
+    font-size: 1.25rem;
+    font-family: "blackadder itc";
+}
+
+#download {
+    position: relative;
+}
+
+#download div {
+    position: absolute;
+    top: 0.125rem;
+    width: 30%;
+    height: 90%;
+    background-color: #000000;
+    opacity: 0.6;
+}
+
+#download div ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#download div ul li a {
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+#download div ul li a:hover {
+    color: #00aaff;
+}
+
+#down {
+    display: none;
+}

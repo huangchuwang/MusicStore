@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta name="viewport"
+		content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+	<meta charset="utf-8" />
+	<title>音乐商店</title>
+	<link rel="stylesheet" type="text/css" href="./boostrap/bootstrap.css" />
+	<link rel="stylesheet" type="text/css" href="./Swiper/swiper.css" />
+	<link rel="stylesheet" type="text/css" href="./css/MyStyle.css" />
+	<script src="./js/jquery-3.4.1.js" type="text/javascript" charset="utf-8"></script>
+	<script src="./boostrap/bootstrap.bundle.js" type="text/javascript" charset="utf-8"></script>
+	<script src="./boostrap/bootstrap.js" type="text/javascript" charset="utf-8"></script>
+	<script src="Swiper/swiper.js" type="text/javascript" charset="utf-8"></script>
+	<script src="./js/lazyload.js" type="text/javascript" charset="utf-8"></script>
+
+</head>
+
+<body style="padding-top:3.625rem;">
+	<div class="container-fluid">
+		<div class="row justify-content-center header">
+			<div class="col-12">
+				<nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
+					<a class="navbar-brand text-info" href="#">
+						<img src="./img/computer.png" width="30" height="30" class="d-inline-block align-top" alt="">
+						音乐商店
+					</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse"
+						data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
+						aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+						<ul class="navbar-nav mr-auto" id="headlabel">
+							<li class="nav-item active dropdown">
+								<a class="nav-link" href="#">首页 <span class="sr-only">(current)</span></a>
+							</li>
+							<li class="nav-item dropdown">
+								<a class="nav-link" href="#">最新</a>
+							</li>
+
+
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+									data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									类型
+								</a>
+								<div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
+									<a class="dropdown-item text-secondary" href="#">流行</a>
+									<a class="dropdown-item text-secondary" href="#">古风</a>
+									<a class="dropdown-item text-secondary" href="#">摇滚....</a>
+								</div>
+							</li>
+						</ul>
+						<form class="form-inline my-2 my-lg-0" id="serch-form">
+							<input class="form-control form-control-sm mr-sm-2 bg-dark text-white" name="name" id="in"
+								type="search" placeholder="请输入专辑名称" aria-label="Search">
+							<button id="btn" class="btn my-2 my-sm-0" type="submit">
+								<img src="./img/grabble.png" width="23" height="23" class="d-inline-block align-top"
+									alt="">
+							</button>
+						</form>
+
+						<!-- 购物车按钮 -->
+						&nbsp;&nbsp;
+						<button type="button" class="btn btn-outline-success btn-sm mx-1" data-toggle="modal" data-target="#restInfo" id="myModa2">购物车</button>
+						<!-- 登录按钮 -->
+						&nbsp;&nbsp;
+						<button type="button" class="btn btn-primary btn-sm" data-toggle="modal"
+						data-target="#longinInfo" id="myModal">登录</button>
+						<!-- 登录弹框-->
+						<div class="modal fade" id="longinInfo" tabindex="1" role="dialog"
+							aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+							<div class="modal-dialog modal-dialog-centered" role="document">
+								<div class="modal-content">
+									<div class="modal-header">
+										<h5 class="modal-title" id="exampleModalCenterTitle">欢迎登录</h5>
+										<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+											<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<div class="modal-body">
+										<!-- 登录表单内容 -->
+										<div class="col-12 mb-3">
+											<div class="col-auto my-1">
+												用户名
+											</div>
+											<input type="text" class="form-control" id="exampleFormControlInput1"
+												placeholder="请输入用户名">
+										</div>
+										<div class="col-12 mb-3">
+											<div class="col-auto my-1">
+												密码
+											</div>
+											<input type="password" class="form-control" id="exampleFormControlInput1"
+												placeholder="请输入密码">
+										</div>
+										<div class="col-12 mt-2">
+											<button type="button " class="btn btn-primary btn-md btn-block">登录</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						&nbsp;&nbsp;
+						<!-- 注册按钮 -->
+						<button type="button" class="btn btn-outline-success btn-sm mx-1" data-toggle="modal"
+							data-target="#restInfo" id="myModa2">注册</button>
+						<div class="modal fade" id="restInfo" tabindex="1" role="dialog"
+							aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+							<div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+								<div class="modal-content">
+									<div class="modal-header">
+										<h5 class="modal-title" id="exampleModalCenterTitle">欢迎注册</h5>
+										<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+											<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<div class="modal-body">
+										<!-- 注册表单内容 -->
+										<div class="col-12 mb-3">
+											<div class="col-auto my-1">
+												用户名
+											</div>
+											<input type="text" class="form-control" id="exampleFormControlInput1"
+												placeholder="请输入用户名">
+										</div>
+										<div class="col-12 mb-3">
+											<div class="col-auto my-1">
+												密码
+											</div>
+											<input type="password" class="form-control" id="exampleFormControlInput1"
+												placeholder="请输入密码">
+										</div>
+										<div class="col-12 mb-3">
+											<div class="col-auto my-1">
+												确认密码
+											</div>
+											<input type="password" class="form-control" id="exampleFormControlInput1"
+												placeholder="请再次输入密码">
+										</div>
+										<div class="col-12 mb-3">
+											<div class="col-auto my-1">
+												地址
+											</div>
+											<div class="row">
+												<div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+													<div class="row justify-content-between">
+														<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 mb-2">
+															<select class="custom-select mr-sm-2"
+																id="inlineFormCustomSelect" style="width: 8.125rem;">
+																<option selected>湖北省</option>
+																<option value="1">浙江省</option>
+																<option value="2">北京市</option>
+																<option value="3">广东省</option>
+															</select>
+														</div>
+
+														<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6">
+															<select class="custom-select mr-sm-2"
+																id="inlineFormCustomSelect" style="width: 8.125rem;">
+																<option selected>武汉市</option>
+																<option value="1">衡水市</option>
+																<option value="2">黄石市</option>
+																<option value="3">北京市</option>
+															</select>
+														</div>
+
+														<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6">
+															<select class="custom-select mr-sm-2"
+																id="inlineFormCustomSelect" style="width: 8.125rem;">
+																<option selected>洪山区</option>
+																<option value="1">武昌区</option>
+																<option value="2">江西区</option>
+																<option value="3">咸安区</option>
+															</select>
+														</div>
+													</div>
+												</div>
+												<div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+													<input type="text" class="form-control" placeholder="详细地址">
+												</div>
+												<div class=" col-12  ml-3 custom-control custom-checkbox">
+													<input type="checkbox" class="custom-control-input"
+														id="customCheck1">
+													<label class="custom-control-label text-primary"
+														for="customCheck1">同意协议</label>
+												</div>
+												<div class="col-12 mt-2">
+													<button type="button "
+														class="btn btn-primary btn-md btn-block">注册</button>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</nav>
+			</div>
+			<div class="col-lg-10 col-md-12 col-sm-12">
+				<div class="swiper-container" id="case7">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide"><img data-src="img/images/124015-155996881530e3.jpg" class="lazyload">
+						</div>
+						<div class="swiper-slide"><img data-src="img/images/135417-1587794057ab38.jpg" class="lazyload">
+						</div>
+						<div class="swiper-slide"><img data-src="img/images/132350-1581139430a623.jpg" class="lazyload">
+						</div>
+						<div class="swiper-slide"><img data-src="img/images/174718-15581728388724.jpg" class="lazyload">
+						</div>
+						<div class="swiper-slide"><img data-src="img/images/221508-1560521708e6ff.jpg" class="lazyload">
+						</div>
+						<div class="swiper-slide"><img data-src="img/images/223137-1586615497a2d9.jpg" class="lazyload">
+						</div>
+						<div class="swiper-slide"><img data-src="img/images/232605-15862731656596.jpg" class="lazyload">
+						</div>
+						<div class="swiper-slide"><img
+								data-src="img/images/small40192f858069acd05d816e43323d9a5e1586266564.jpg"
+								class="lazyload"></div>
+						<div class="swiper-slide"><img
+								data-src="img/images/small5ff86b7c37fbe15dae262fd75bbba3051585738258.jpg"
+								class="lazyload"></div>
+						<div class="swiper-slide"><img
+								data-src="img/images/small792b2abf64dbe9b8941798021c1554bf1584278721.jpg"
+								class="lazyload"></div>
+					</div>
+					<!-- 导航按钮 上一页下一页 -->
+					<div class="swiper-button-prev"></div>
+					<div class="swiper-button-next"></div>
+					<!-- 分页器 -->
+					<div class="swiper-pagination"></div>
+					<!-- 滚动条 -->
+					<div class="swiper-scrollbar"></div>
+				</div>
+			</div>
+		</div>
+		<div class="container" style="padding: 0;">
+			<div class="row d-flex" id="content">
+				<!-- 面包屑导航 -->
+				<div class="col-12" style="margin-left: -1.1rem;">
+					<nav aria-label="breadcrumb">
+						<ol class="breadcrumb" style="background-color: white; margin-bottom: -0.625rem;">
+							<li class="breadcrumb-item " aria-current="page"><a href="">专辑列表</a></li>
+							<li class="breadcrumb-item"><a href="#">热门音乐</a></li>
+							<li class="breadcrumb-item active" aria-current="page">最新</li>
+						</ol>
+					</nav>
+				</div>
+
+				<!-- 照片展示处 -->
+				<div id="one"></div>
+
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<div class="col-lg-10 col-md-12 col-sm-12">
+				<nav aria-label="Page navigation example">
+					<ul class="pagination justify-content-center">
+						<li class="page-item disabled"> <span class="page-link">当前第1页</span></li>
+						<li class="page-item"><a class="page-link" href="index.html">上一页</a></li>
+						<li class="page-item"><a class="page-link" href="index.html">1</a></li>
+						<li class="page-item"><a class="page-link" href="nextPage.html">2</a></li>
+						<li class="page-item"><a class="page-link" href=" ">3</a></li>
+						<li class="page-item"><a class="page-link" href="nextPage.html">下一页</a></li>
+						<li class="page-item disabled"> <span class="page-link">共3页</span></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+		<div class="row bg-dark text-center">
+			<div class="col text-secondary text-center mt-3">
+				<p>
+					本站资源来源于网络，如有侵权请联系qq<a href="text-secondary" class="text-secondary">635411106</a> 邮箱<a href=""
+						class="text-secondary">
+						635411106@qq.com</a>
+				</p>
+			</div>
+		</div>
+	</div>
+	<script src="./js/external.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+$(function() {
+			var $tr = '';
+			var ele = $("#one");
+			$.ajax({
+				url: "datas.json",
+				type: "GET",
+				dataType: "json",
+				success: function (data) {
+					$.each(data.data, function (i, item) {
+						$tr +='<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">';
+						$tr += '<a href=""><img src="img/images/200251-1582545771f1a7.jpg" class="lazyload rounded"></a>';
+						$tr += '<div class="text-left" id="down">';
+						$tr += '<ul class="ml-1">';
+						$tr += '<li class="my-2"><a href="">1920x1080</a></li>';
+						$tr += '<li class="my-2"><a href="">1440x900</a></li>';
+						$tr += '<li class="my-2"><a href="">1024x768</a></li>';
+						$tr += '<li class="my-2"><a href="">800x600</a></li>';
+						$tr += '<li class="my-2"><a href="">原图</a></li>';
+						$tr += '</ul>';
+						$tr += '</div>';
+						$tr += '</div>';
+					})
+					ele.after($tr);
+				}
+			})
+
+
+			
+		});
+
+
+		
+
+
+
+
+	$(function () {
+		$("#content>div").mouseover(function () {
+			var index = $(this).index();
+			$("#content>div:eq(" + index + ")>a>img").css({
+				"transform": "scale(1.05)",
+				"transition": ".5s"
+			});
+			$("#content>div:eq(" + index + ")>div").show(100);
+		}).mouseleave(function () {
+			var index = $(this).index();
+			$("#content>div:eq(" + index + ")>div").hide(100);
+			$("#content>div:eq(" + index + ")>a>img").css({
+				"transform": "scale(1)",
+				"transition": ".5s"
+			});
+		});
+		$("#case7>div>div>img").hover(function () {
+			$(this).css({
+				"transform": "scale(1.5)",
+				"transition": "1s"
+			})
+		}, function () {
+			$(this).css({
+				"transform": "scale(0.8)",
+				"transition": "1s"
+			})
+		});
+
+		$("#headlabel li").hover(function (even) {
+			var index = $(this).index();
+			$("#headlabel>li:eq(" + index + ")").animate({
+				left: '+5px',
+			}, "slow");
+		}, function () {
+			var index = $(this).index();
+			$("#headlabel>li:eq(" + index + ")").animate({
+				left: '0px',
+			}, 100);
+		});
+	});
+	</script>
+</body>
+
+</html>

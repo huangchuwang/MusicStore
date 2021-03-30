@@ -1,0 +1,818 @@
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+E:\VSDEMO\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojResolveAssemblyReference.cache
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+E:\桌面\mMusicStory\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+C:\Users\Administrator\Desktop\NetMVC.MusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Desktop\new\new\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojResolveAssemblyReference.cache
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+E:\000来找茬\777777\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+C:\Users\Administrator\Desktop\MrMusicStory\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll.config
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojAssemblyReference.cache
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CoreCompileInputs.cache
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CopyComplete
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+E:\MMMMMMusicStore\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll.config
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojAssemblyReference.cache
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CoreCompileInputs.cache
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CopyComplete
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+E:\MMMMMMusicStore\项目2\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojResolveAssemblyReference.cache
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+E:\000来找茬\000Music\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojResolveAssemblyReference.cache
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+E:\桌面\MrDemo\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojResolveAssemblyReference.cache
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+D:\MrMusicStore\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹\new4\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll.config
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojAssemblyReference.cache
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CoreCompileInputs.cache
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CopyComplete
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+E:\桌面\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll.config
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojAssemblyReference.cache
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CoreCompileInputs.cache
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CopyComplete
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+E:\MMMMMMusicStore\项目3\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹\新建文件夹\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll.config
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojAssemblyReference.cache
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CoreCompileInputs.cache
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CopyComplete
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+E:\桌面\NewHcw\micro-service\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+C:\Users\Administrator\Desktop\new\new7\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojResolveAssemblyReference.cache
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+D:\项目\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹\new6\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹\666\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹 (3)\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹 (4)\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\csc.exe
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\vbc.exe
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Entity.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.pdb
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\NetMvcMusicStory.Interface.dll.config
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.Web.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csprojAssemblyReference.cache
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CoreCompileInputs.cache
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.csproj.CopyComplete
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.dll
+C:\Users\15849\Desktop\新建文件夹 (5)\NetMvc.MusicStory\NetMvcMusicStory.Entity\obj\Debug\NetMvcMusicStory.Entity.pdb

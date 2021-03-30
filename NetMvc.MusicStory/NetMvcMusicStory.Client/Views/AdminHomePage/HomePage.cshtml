@@ -1,0 +1,176 @@
+﻿@{ Layout = null; }
+@Styles.Render("~/Content/layui/css")
+@Scripts.Render("~/Content/layui/js")
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>专辑流派统计</title>
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+</head>
+<style>
+    .d{
+        padding-left: 0px;
+        margin-left: 0px;
+        padding-top: 50px;
+    }
+
+</style>
+<body>
+    @*雷达图*@
+    <div class="d" style="float: left;width: 10%;height: 500px;"> 
+        <div id="main" style="width: 400px;height:470px;"></div>
+    </div>
+    @*饼图*@
+    <div class="d" style="float: right;width: 30%;height: 500px;">
+        <div id="main2" style="width: 400px; height: 470px;"></div>
+    </div>
+    @*柱形图*@
+    <div class="d" style=" padding-right: 0px; float: right; width: 40%; height: 500px;">
+        <div id="main3" style=" width: 600px;height: 450px;"></div>
+    </div>
+        <script src="~/Content/layuimini/js/lay-module/echarts/echarts.layui.js"></script>
+        <script type="text/javascript">
+            layui.use(['jquery'], function () {
+                var $ = layui.jquery;
+                // 基于准备好的dom，初始化echarts实例
+                var myChart = echarts.init(document.getElementById('main'));
+                var myChart2 = echarts.init(document.getElementById('main2'));
+                var myChart3 = echarts.init(document.getElementById('main3'));
+                var datas = [];
+                var GenreName = [];
+                var Genre = [];
+                var NameOrMax = [];
+                $.ajax({
+                    url: "GenreByCountList",
+                    dataType: 'json',
+                    type: 'post',
+                    success: function (data) {
+                        NameOrMax = data;       //给名字和最大值
+                        if (data) {
+                            for (var i = 0; i < data.length; i++) {
+                                Genre.push(data[i].count);
+                                GenreName.push(data[i].name);
+                                var obj = {                                  //格式化为想要的json格式
+                                    value: data[i].count,
+                                    name: data[i].name
+                                };
+                                datas.push(obj);
+                            }
+                        }
+                        //————————————雷达图———————————————
+                        // 指定图表的配置项和数据
+                        var option = {
+                            title: {
+                                text: '雷达图',
+                                left: 'center'
+                            },
+                            tooltip: {},
+                            radar: {//定义类型与最大值
+                                indicator: NameOrMax
+                            },
+                            series: [{
+                                type: 'radar',
+                                radius: '65%',
+                                center: ['10%', '80%'],
+                                data: [
+                                    {
+                                        name: "流派类型",
+                                        value: Genre
+                                    }
+                                ]
+                            }]
+                        };
+                        // 使用刚指定的配置项和数据显示图表。
+                        myChart.setOption(option);
+
+                        //————————————饼图———————————————
+                        option2 = {
+                            title: {
+                                text: '饼图',
+                                left: 'center'
+                            },
+                            tooltip: {
+                                trigger: 'item',
+                                formatter: '{a} <br/>{b} : {c} ({d}%)'
+                            },
+                            legend: {
+                                bottom: 10,
+                                left: 'center',
+                                data: GenreName
+                            },
+                            series: [
+                                {
+                                    type: 'pie',
+                                    radius: '65%',
+                                    center: ['50%', '50%'],
+                                    selectedMode: 'single',
+                                    data: datas,
+                                    emphasis: {
+                                        itemStyle: {
+                                            shadowBlur: 10,
+                                            shadowOffsetX: 0,
+                                            shadowColor: 'rgba(0, 0, 0, 0.5)'
+                                        }
+                                    }
+                                }
+                            ]
+                        };
+
+                        //使用刚指定的配置项和数据显示图表。
+                        myChart2.setOption(option2);
+
+                        //————————————柱状图———————————————
+                        option3 = {
+                            title: {
+                                text: '柱状图',
+                                left: 'center'
+                            },
+                            color: ['#3398DB'],
+                            tooltip: {
+                                trigger: 'axis',
+                                axisPointer: {            // 坐标轴指示器，坐标轴触发有效
+                                    type: 'shadow'        // 默认为直线，可选为：'line' | 'shadow'
+                                }
+                            },
+                            grid: {
+                                left: '3%',
+                                right: '40%',
+                                bottom: '3%',
+                                containLabel: true
+                            },
+                            xAxis: [
+                                {
+                                    type: 'category',
+                                    data: GenreName,
+                                    axisTick: {
+                                        alignWithLabel: true
+                                    }
+                                }
+                            ],
+                            yAxis: [
+                                {
+                                    type: 'value'
+                                }
+                            ],
+                            series: [
+                                {
+                                    name: '数量',
+                                    type: 'bar',
+                                    barWidth: '60%',
+                                    data: Genre
+                                }
+                            ]
+                        };
+                        //使用刚指定的配置项和数据显示图表。
+                        myChart3.setOption(option3);
+
+                    }
+                });
+            });
+        </script>
+</body>
+</html>

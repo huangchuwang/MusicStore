@@ -1,0 +1,234 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* box-sizing 默认是 content-box,及内容宽度，当加上border、padding
+  会改变整体宽度
+  当设置为 border-box 时，是全部宽度，包含添加的其他宽度,例如，防止添加
+  border 会超过父节点宽度，然后默认换行*/
+  box-sizing: border-box;
+}
+
+
+
+
+.card {
+  position: relative;
+  width: auto;
+  height: 500px;
+  background: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0 10px 50px rgba(0, 0, 0, 0.3);
+}
+
+.card>input {
+  display: none;
+}
+
+.slide {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  text-align: center;
+  z-index: 1;
+}
+
+.slide label {
+  display: inline-block;
+  width: 50px;
+  height: 10px;
+  background: #d9d9d9;
+  border-radius: 10px;
+  margin: 0 3px;
+  position: relative;
+  cursor: pointer;
+}
+
+.slide label::before {
+  content: '';
+  width: -100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #000;
+  border-radius: 10px;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.6s;
+}
+
+.content {
+  height: auto;
+  width: auto;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0px;
+}
+
+.pic {
+  width: auto;
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 0 10px 50px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.pic img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* .pic .img_1 {
+  background: url("../img/美女1.jpg") no-repeat;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+} */
+
+.txt {
+  width: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 20px;
+}
+
+.txt .tit {
+  font-size: 30px;
+  font-weight: 700;
+  color: #0d0952;
+  margin-bottom: 10px;
+}
+
+.txt .info {
+  font-size: 18px;
+  color: #4e4a67;
+  margin-bottom: 20px;
+  line-height: 1.5em;
+  text-align: justify;
+}
+
+.txt .btn {
+  border: 0;
+  outline: 0;
+  padding: 10px 15px;
+  border-radius: 50px;
+  letter-spacing: 1px;
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: 600;
+  cursor: pointer;
+  background: #000;
+  float: right;
+  transition: color, background 1s ease;
+}
+
+.txt .btn:hover {
+  background: #cecece;
+  color: #000;
+  transition: color, background 0.5s ease;
+}
+
+.pic img,
+.txt {
+  opacity: 0;
+  transition: 0.6s;
+}
+
+/* 按钮进行切换 */
+#slide_1:checked ~ .slide .slide_btn_1::before,
+#slide_2:checked ~ .slide .slide_btn_2::before,
+#slide_3:checked ~ .slide .slide_btn_3::before,
+#slide_4:checked ~ .slide .slide_btn_4::before,
+#slide_5:checked ~ .slide .slide_btn_5::before,
+#slide_6:checked ~ .slide .slide_btn_6::before,
+#slide_7:checked ~ .slide .slide_btn_7::before,
+#slide_8:checked ~ .slide .slide_btn_8::before {
+    width: 100%;
+    transform: scaleX(1);
+}
+
+#slide_1:checked~.content .img_1,
+#slide_2:checked~.content .img_2,
+#slide_3:checked~.content .img_3,
+#slide_4:checked~.content .img_4,
+#slide_5:checked~.content .img_5,
+#slide_6:checked~.content .img_6,
+#slide_7:checked~.content .img_7,
+#slide_8:checked~.content .img_8{
+  opacity: 1;
+  transition-delay: 0.2s;
+}
+
+#slide_1:checked~.content .txt_1,
+#slide_2:checked~.content .txt_2,
+#slide_3:checked~.content .txt_3 ,
+#slide_4:checked~.content .txt_4 ,
+#slide_5:checked~.content .txt_5 ,
+#slide_6:checked~.content .txt_6 ,
+#slide_7:checked~.content .txt_7 ,
+#slide_8:checked~.content .txt_8{
+  opacity: 1;
+  margin-left: 0;
+  z-index: 1;
+  transition-delay: 0.3s;
+}
+
+#slide_img:checked~.content .pic {
+  width: 550px;
+  height: 320px;
+  z-index: 999;
+  transition: 0.3s 0.2s ease-in;
+}
+
+#slide_img:checked~.content .txt {
+  display: none;
+}
+
+#slide_img:checked~.content {
+  padding: 0;
+  transition: 0.5s ease;
+}
+
+#slide_img:checked+.slide {
+  display: none;
+}
+
+
+
+
+
+
+/* ---------------------------- */
+
+
+#download div {
+    position: absolute;
+    top: 0.125rem;
+    width: 300px;
+    height: 300px;
+    background-color: #000000;
+    opacity: 0.6;
+}
+
+#download div ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#download div ul li a {
+  color: #FFFFFF;
+  font-weight: 400;
+}
+
+#download div ul li a:hover {
+  color: #00aaff;
+}
+
+#down {
+  display: none;
+} 

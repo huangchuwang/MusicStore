@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport"
+			content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<meta charset="utf-8" />
+		<title>Music</title>
+	
+		<link rel="stylesheet" type="text/css" href="./Swiper/swiper.css" />
+		<link rel="stylesheet" type="text/css" href="./css/MyStyle.css" />
+		<script src="./js/jquery-3.4.1.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./boostrap/bootstrap.bundle.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./boostrap/bootstrap.js" type="text/javascript" charset="utf-8"></script>
+		<script src="Swiper/swiper.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./js/lazyload.js" type="text/javascript" charset="utf-8"></script>
+		<link rel="stylesheet" href="/boostrap/bootstrap-4.5.0/css/bootstrap.css">  
+		<link rel="stylesheet" type="text/css" href="/testStyle/纯CSS选项卡.css" />
+		<link rel="stylesheet" type="text/css" href="/search/c1.css" />
+	</head>
+	<body style="padding-top:3.625rem;">
+		<div class="container-fluid">
+			<div class="row justify-content-center header">
+				<div class="col-12">
+					<nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
+						<a class="navbar-brand text-info" href="#">
+							<img src="./img/computer.png" width="30" height="30" class="d-inline-block align-top" alt="">
+							桌面精品
+						</a>
+						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
+						 aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+							<span class="navbar-toggler-icon"></span>
+						</button>
+
+						<div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+							<ul class="navbar-nav mr-auto" id="headlabel">
+								<li class="nav-item active dropdown">
+									<a class="nav-link" href="#">首页 <span class="sr-only">(current)</span></a>
+								</li>
+								<li class="nav-item dropdown">
+									<a class="nav-link" href="#">最新</a>
+								</li>
+
+								<li class="nav-item dropdown">
+									<a class="nav-link" href="#">4K</a>
+								</li>
+
+								<li class="nav-item dropdown">
+									<a class="nav-link" href="#">风景</a>
+								</li>
+
+								<li class="nav-item dropdown">
+									<a class="nav-link" href="#">人物</a>
+								</li>
+
+								<li class="nav-item dropdown">
+									<a class="nav-link" href="#">唯美</a>
+								</li>
+
+								<li class="nav-item dropdown">
+									<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+									 aria-haspopup="true" aria-expanded="false">
+										手机壁纸
+									</a>
+									<div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
+										<a class="dropdown-item text-secondary" href="#">精品漫画</a>
+										<a class="dropdown-item text-secondary" href="#">精品人物</a>
+										<a class="dropdown-item text-secondary" href="#">其他....</a>
+									</div>
+								</li>
+							</ul>
+							<form class="form-inline my-2 my-lg-0">
+								<input class="form-control form-control-sm mr-sm-2 bg-dark text-white" type="search" placeholder="请输入图片相关名称"
+								 aria-label="Search">
+								<button class="btn my-2 my-sm-0" type="submit">
+									<img src="./img/grabble.png" width="23" height="23" class="d-inline-block align-top" alt="">
+								</button>
+							</form>
+							<!-- 购物车按钮 -->
+							&nbsp;&nbsp;
+							<button type="button" class="btn btn-outline-success btn-sm mx-1" data-toggle="modal" data-target="#restInfo" id="myModa2">购物车</button>
+							<!-- 登录按钮 -->
+							&nbsp;&nbsp;
+							<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#longinInfo" id="myModal">登录</button>
+							<!-- 登录弹框-->
+							<div class="modal fade" id="longinInfo" tabindex="1" role="dialog" aria-labelledby="exampleModalCenterTitle"
+							 aria-hidden="true">
+								<div class="modal-dialog modal-dialog-centered" role="document">
+									<div class="modal-content">
+										<div class="modal-header">
+											<h5 class="modal-title" id="exampleModalCenterTitle">欢迎登录</h5>
+											<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+												<span aria-hidden="true">&times;</span>
+											</button>
+										</div>
+										<div class="modal-body">
+											<!-- 登录表单内容 -->
+											<div class="col-12 mb-3">
+												<div class="col-auto my-1">
+													用户名
+												</div>
+												<input type="text" class="form-control" id="exampleFormControlInput1" placeholder="请输入用户名">
+											</div>
+											<div class="col-12 mb-3">
+												<div class="col-auto my-1">
+													密码
+												</div>
+												<input type="password" class="form-control" id="exampleFormControlInput1" placeholder="请输入密码">
+											</div>
+											<div class="col-12 mt-2">
+												<button type="button " class="btn btn-primary btn-md btn-block">登录</button>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							&nbsp;&nbsp;
+							<!-- 注册按钮 -->
+							<button type="button" class="btn btn-outline-success btn-sm mx-1" data-toggle="modal" data-target="#restInfo" id="myModa2">注册</button>
+							<div class="modal fade" id="restInfo" tabindex="1" role="dialog" aria-labelledby="exampleModalCenterTitle"
+							 aria-hidden="true">
+								<div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+									<div class="modal-content">
+										<div class="modal-header">
+											<h5 class="modal-title" id="exampleModalCenterTitle">欢迎注册</h5>
+											<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+												<span aria-hidden="true">&times;</span>
+											</button>
+										</div>
+										<div class="modal-body">
+											<!-- 注册表单内容 -->
+											<div class="col-12 mb-3">
+												<div class="col-auto my-1">
+													用户名
+												</div>
+												<input type="text" class="form-control" id="exampleFormControlInput1" placeholder="请输入用户名">
+											</div>
+											<div class="col-12 mb-3">
+												<div class="col-auto my-1">
+													密码
+												</div>
+												<input type="password" class="form-control" id="exampleFormControlInput1" placeholder="请输入密码">
+											</div>
+											<div class="col-12 mb-3">
+												<div class="col-auto my-1">
+													确认密码
+												</div>
+												<input type="password" class="form-control" id="exampleFormControlInput1" placeholder="请再次输入密码">
+											</div>
+											<div class="col-12 mb-3">
+												<div class="col-auto my-1">
+													地址
+												</div>
+												<div class="row">
+													<div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+														<div class="row justify-content-between">
+															<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 mb-2">
+																<select class="custom-select mr-sm-2" id="inlineFormCustomSelect" style="width: 8.125rem;">
+																	<option selected>湖北省</option>
+																	<option value="1">浙江省</option>
+																	<option value="2">北京市</option>
+																	<option value="3">广东省</option>
+																</select>
+															</div>
+
+															<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6">
+																<select class="custom-select mr-sm-2" id="inlineFormCustomSelect" style="width: 8.125rem;">
+																	<option selected>武汉市</option>
+																	<option value="1">衡水市</option>
+																	<option value="2">黄石市</option>
+																	<option value="3">北京市</option>
+																</select>
+															</div>
+
+															<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6">
+																<select class="custom-select mr-sm-2" id="inlineFormCustomSelect" style="width: 8.125rem;">
+																	<option selected>洪山区</option>
+																	<option value="1">武昌区</option>
+																	<option value="2">江西区</option>
+																	<option value="3">咸安区</option>
+																</select>
+															</div>
+														</div>
+													</div>
+													<div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+														<input type="text" class="form-control" placeholder="详细地址">
+													</div>
+													<div class=" col-12  ml-3 custom-control custom-checkbox">
+														<input type="checkbox" class="custom-control-input" id="customCheck1">
+														<label class="custom-control-label text-primary" for="customCheck1">同意协议</label>
+													</div>
+													<div class="col-12 mt-2">
+														<button type="button " class="btn btn-primary btn-md btn-block">注册</button>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</nav>
+				</div>
+				<div class="col-lg-10 col-md-12 col-sm-12">
+					<div class="swiper-container" id="case7">
+						<div id="list" class="swiper-wrapper">
+						
+						</div>
+						<!-- 导航按钮 上一页下一页 -->
+						<div class="swiper-button-prev"></div>
+						<div class="swiper-button-next"></div>
+						<!-- 分页器 -->
+						<div class="swiper-pagination"></div>
+						<!-- 滚动条 -->
+						<div class="swiper-scrollbar"></div>
+					</div>
+				</div>
+			</div>
+
+
+
+			<div class="container" style="padding: 0;">
+				<div class="row d-flex" id="content">
+					<!-- 面包屑导航 -->
+					<div class="col-12" style="margin-left: -1.1rem;">
+						<nav aria-label="breadcrumb">
+							<ol class="breadcrumb" style="background-color: white; margin-bottom: -0.625rem;">
+								<button class="btn btn-default btn-lg">
+								<label for="slide_1" class="slide_btn_1">最新</label>			
+								</button>
+								<button class="btn btn-default btn-lg">
+								<label for="slide_2" class="slide_btn_2">热门</label>			
+								</button>
+								<button class="btn btn-default btn-lg">
+								<label for="slide_3" class="slide_btn_3">好评</label>			
+								</button>
+								<button class="btn btn-default btn-lg">
+								<label for="slide_4" class="slide_btn_4">热榜</label>			
+								</button>
+								<button class="btn btn-default btn-lg">
+								<label for="slide_5" class="slide_btn_5">流行</label>			
+								</button>
+								<button class="btn btn-default btn-lg">
+								<label for="slide_6" class="slide_btn_6">飙升榜</label>			
+								</button>
+								<button class="btn btn-default btn-lg">
+								<label for="slide_7" class="slide_btn_7">活动</label>			
+								</button>
+								<button class="btn btn-default btn-lg">
+								<label for="slide_8" class="slide_btn_8">热门</label>			
+								</button>
+							</ol>
+						</nav>
+					</div>
+				</div>
+	
+	
+				<div class="card">
+					<input type="radio" name="select" id="slide_1" checked>
+					<input type="radio" name="select" id="slide_2">
+					<input type="radio" name="select" id="slide_3">
+					<input type="radio" name="select" id="slide_4" checked>
+					<input type="radio" name="select" id="slide_5">
+					<input type="radio" name="select" id="slide_6">
+					<input type="radio" name="select" id="slide_7" checked>
+					<input type="radio" name="select" id="slide_8">
+					<!-- 图片点击 -->
+					<input type="checkbox" id="slide_img">
+					
+					<!-- 点击按钮 -->
+					<!-- <div class="slide">
+					  <label for="slide_1" class="slide_btn_1"></label>
+					  <label for="slide_2" class="slide_btn_2"></label>
+					  <label for="slide_3" class="slide_btn_3"></label>
+					</div> -->
+	
+	
+						<!-- 主题内容 -->
+					<div  class="content" >
+					  <label height="500px" for="slide_img" class="pic">
+						<a data-src=""><img  src="img/images/223137-1586615497a2d9.jpg" alt="" class="img_1"></a>	
+						<div style="text-align: center;">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+					  </label>	
+					
+					  <div style="height: 500px;" class="txt txt_1">	
+							<!-- 卡片开始 -->
+							<div style="width: 500px;height: auto;" class="card">
+							  <div class="card-header bg-primary">
+								<h4>主色</h4>
+								<ul class="card-actions">
+								  <li>
+									<button type="button"><i class="mdi mdi-more"></i></button>
+								  </li>
+								</ul>
+							  </div>
+							  <div class="card-body">
+								<p>内容...</p>
+							  </div>
+							</div>
+						</div>
+					  
+					</div>
+				
+				
+					<div class="content">
+					  <label for="slide_img" class="pic">
+						<img src="./img/美女2.jpg" alt="" class="img_2">
+					  </label>
+					  <div class="txt txt_2">
+							  <!-- 卡片开始 -->
+						<div style="width: 500px;height: auto;" class="card">
+							<div class="card-header bg-primary">
+							  <h4>主色</h4>
+							  <ul class="card-actions">
+								<li>
+								  <button type="button"><i class="mdi mdi-more"></i></button>
+								</li>
+							  </ul>
+							</div>
+							<div class="card-body">
+							  <p>内容...</p>
+							  <p>内容...</p>
+							  <p>内容...</p>
+							  <p>内容...</p>
+							</div>
+						  </div>
+					  </div>
+					</div>
+				
+					<div class="content">
+					  <label for="slide_img" class="pic">
+						<img src="./img/卡通-美女.jpg" alt="" class="img_3">
+					  </label>
+					  <div class="txt txt_3">
+					<!-- 卡片开始 -->
+						<div style="width: 500px;height: auto;" class="card">
+						<div class="card-header bg-primary">
+							<h4>主色</h4>
+							<ul class="card-actions">
+							<li>
+								<button type="button"><i class="mdi mdi-more"></i></button>
+							</li>
+							</ul>
+						</div>
+						<div class="card-body">
+							<p>内容...</p>
+						</div>
+						</div>
+	
+					  </div>
+					</div>	
+	
+					<div class="content">
+						<label for="slide_img" class="pic">
+						  <img src="./img/卡通-美女.jpg" alt="" class="img_4">
+						</label>
+						<div class="txt txt_4">
+												  <!-- 卡片开始 -->
+						<div style="width: 500px;height: auto;" class="card">
+							<div class="card-header bg-primary">
+							  <h4>主色</h4>
+							  <ul class="card-actions">
+								<li>
+								  <button type="button"><i class="mdi mdi-more"></i></button>
+								</li>
+							  </ul>
+							</div>
+							<div class="card-body">
+							  <p>内容...</p>
+							</div>
+						  </div>
+						</div>
+					</div>	
+					<div class="content">
+						<label for="slide_img" class="pic">
+						  <img src="./img/卡通-美女.jpg" alt="" class="img_5">
+						</label>
+						<div class="txt txt_5">
+						<!-- 卡片开始 -->
+							<div style="width: 500px;height: auto;" class="card">
+							<div class="card-header bg-primary">
+								<h4>主色</h4>
+								<ul class="card-actions">
+								<li>
+									<button type="button"><i class="mdi mdi-more"></i></button>
+								</li>
+								</ul>
+							</div>
+							<div class="card-body">
+								<p>内容...</p>
+							</div>
+							</div>
+						</div>
+					</div>	
+	
+					<div class="content">
+						<label for="slide_img" class="pic">
+						  <img src="./img/卡通-美女.jpg" alt="" class="img_6">
+						</label>
+						<div class="txt txt_6">
+												   <!-- 卡片开始 -->
+						<div style="width: 500px;height: auto;" class="card">
+							<div class="card-header bg-primary">
+							  <h4>主色</h4>
+							  <ul class="card-actions">
+								<li>
+								  <button type="button"><i class="mdi mdi-more"></i></button>
+								</li>
+							  </ul>
+							</div>
+							<div class="card-body">
+							  <p>内容...</p>
+							</div>
+						  </div>
+						</div>
+					</div>	
+					<div class="content">
+						<label for="slide_img" class="pic">
+						  <img src="./img/卡通-美女.jpg" alt="" class="img_7">
+						</label>
+						<div class="txt txt_7">
+					<!-- 卡片开始 -->
+						<div style="width: 500px;height: auto;" class="card">
+						<div class="card-header bg-primary">
+							<h4>主色</h4>
+							<ul class="card-actions">
+							<li>
+								<button type="button"><i class="mdi mdi-more"></i></button>
+							</li>
+							</ul>
+						</div>
+						<div class="card-body">
+							<p>内容...</p>
+						</div>
+						</div>
+						</div>
+					</div>	
+	
+					<div class="content">
+						<label for="slide_img" class="pic">
+						  <img src="./img/卡通-美女.jpg" alt="" class="img_8">
+						</label>
+						<div class="txt txt_8">
+													  <!-- 卡片开始 -->
+						<div style="width: 500px;height: auto;" class="card">
+							<div class="card-header bg-primary">
+							  <h4>主色</h4>
+							  <ul class="card-actions">
+								<li>
+								  <button type="button"><i class="mdi mdi-more"></i></button>
+								</li>
+							  </ul>
+							</div>
+							<div class="card-body">
+							  <p>内容...</p>
+							</div>
+						  </div>
+						  <h2 class="tit">SECTION5</h2>
+						  <p class="info">On earth there is nothing at but man; in the man there is nothing at but mind.</p>
+						  <button class="btn">Read More</button>
+						</div>
+					</div>	
+				</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<div class="container" style="padding: 0;">
+				<div class="row d-flex" id="content">
+					<!-- 面包屑导航 -->
+					<div class="col-12" style="margin-left: -1.1rem;">
+						<nav aria-label="breadcrumb">
+							<ol class="breadcrumb" style="background-color: white; margin-bottom: -0.625rem;">
+								<li class="breadcrumb-item " aria-current="page"><a href="">首页</a></li>
+								<li class="breadcrumb-item"><a href="#">桌面壁纸</a></li>
+								<li class="breadcrumb-item active" aria-current="page">最新壁纸</li>
+							</ol>
+						</nav>
+					</div>
+					<!-- 图片展示 -->
+					<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">
+						<a href=""><img data-src="img/images/200251-1582545771f1a7.jpg" class="lazyload rounded"></a>
+						<div class="text-left" id="down">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						<button type="button" class="btn btn-default">在线播放</button>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						<button type="button" class="btn btn-default">加入购物车</button>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">
+						<a href=""><img data-src="img/images/223137-1586615497a2d9.jpg" class="lazyload rounded"></a>
+						<div class="text-left" id="down">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">
+						<a href=""><img data-src="img/images/232605-15862731656596.jpg" class="lazyload rounded"></a>
+						<div class="text-left" id="down">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">
+						<a href=""><img data-src="img/images/234329-1582559009f591.jpg" class="lazyload rounded"></a>
+						<div class="text-left" id="down">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">
+						<a href=""><img data-src="img/images/234738-1586706458eb95.jpg" class="lazyload rounded"></a>
+						<div class="text-left" id="down">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">
+						<a href=""><img data-src="img/images/small0a5bc914d1073096ec07c5ff6ddd3f2e1587042649.jpg" class="lazyload rounded"></a>
+						<div class="text-left" id="down">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">
+						<a href=""><img data-src="img/images/small220e392ed0e0f6f6b7687c3b0ad8280e1583328183.jpg" class="lazyload rounded"></a>
+						<div class="text-left" id="down">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">
+						<a href=""><img data-src="img/images/small254558237c207b28acd2878c8da46e201587305323.jpg" class="lazyload rounded"></a>
+						<div class="text-left" id="down">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">
+						<a href=""><img data-src="img/images/small2ff9e829a574a9be300c0da3729dc0211585061104.jpg" class="lazyload rounded"></a>
+						<div class="text-left" id="down">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">
+						<a href=""><img data-src="img/images/small40192f858069acd05d816e43323d9a5e1586266564.jpg" class="lazyload rounded"></a>
+						<div class="text-left" id="down">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">
+						<a href=""><img data-src="img/images/small5ff86b7c37fbe15dae262fd75bbba3051585738258.jpg" class="lazyload rounded"></a>
+						<div class="text-left" id="down">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">
+						<a href=""><img data-src="img/images/small60df03194fbcc55e1f9311eae66fc9c21586525902.jpg" class="lazyload rounded"></a>
+						<div class="text-left" id="down">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">
+						<a href=""><img data-src="img/images/small7fc897c46e107a400579f9e81dd0a04b1585401382.jpg" class="lazyload rounded"></a>
+						<div class="text-left" id="down">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">
+						<a href=""><img data-src="img/images/small792b2abf64dbe9b8941798021c1554bf1584278721.jpg" class="lazyload rounded"></a>
+						<div class="text-left" id="down">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12 mb-3" id="download">
+						<a href=""><img data-src="img/images/small823f5bc5e022d8664ce3cc40760b28991586090546.jpg" class="lazyload rounded"></a>
+						<div class="text-left" id="down">
+							<ul class="ml-1">
+								<li class="my-2"><a href="">1920x1080</a></li>
+								<li class="my-2"><a href="">1440x900</a></li>
+								<li class="my-2"><a href="">1024x768</a></li>
+								<li class="my-2"><a href="">800x600</a></li>
+								<li class="my-2"><a href="">原图</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-lg-10 col-md-12 col-sm-12">
+					<nav aria-label="Page navigation example">
+						<ul class="pagination justify-content-center">
+							<li class="page-item disabled"> <span class="page-link">当前第2页</span></li>
+							<li class="page-item"><a class="page-link" href="index.html">上一页</a></li>
+							<li class="page-item"><a class="page-link" href="index.html">1</a></li>
+							<li class="page-item"><a class="page-link" href="nextPage.html">2</a></li>
+							<li class="page-item"><a class="page-link" href="../">3</a></li>
+							<li class="page-item"><a class="page-link" href="../">下一页</a></li>
+							<li class="page-item disabled"> <span class="page-link">共3页</span></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+			<div class="row bg-dark text-center">
+				<div class="col text-secondary text-center mt-3">
+					<p>
+						本站学习所用，如有侵权请联系qq<a href="text-secondary" class="text-secondary">213123111</a> 邮箱<a href="" class="text-secondary">
+							lixiaans@qq.com12</a>
+					</p>
+				</div>
+			</div>
+		</div>
+		
+		
+		<script src="./js/external.js" type="text/javascript" charset="utf-8"></script>
+		
+		<script type="text/javascript">
+			$(function() {
+	function imglist(){
+		var $trs = '';
+		for(var i=0;i<6;i++){		
+				$trs +='<div class="swiper-slide">';
+				$trs +='<img src="img/images/005913-1587661153d5c5.jpg" class="lazyload">';
+				$trs += '</div>	';
+			}
+			$("#list").append($trs);
+		}
+		imglist();
+
+				$("#content>div").mouseover(function() {
+					var index = $(this).index();
+					$("#content>div:eq(" + index + ")>a>img").css({
+						"transform": "scale(1.05)",
+						"transition": ".5s"
+					});
+					$("#content>div:eq(" + index + ")>div").show(100);
+				}).mouseleave(function() {
+					var index = $(this).index();
+					$("#content>div:eq(" + index + ")>div").hide(100);
+					$("#content>div:eq(" + index + ")>a>img").css({
+						"transform": "scale(1)",
+						"transition": ".5s"
+					});
+				});
+				$("#case7>div>div>img").hover(function() {
+					$(this).css({
+						"transform": "scale(1.5)",
+						"transition": "1s"
+					})
+				}, function() {
+					$(this).css({
+						"transform": "scale(0.8)",
+						"transition": "1s"
+					})
+				});
+
+				 $("#headlabel li").hover(function(even){
+				  var index = $(this).index();
+                  $("#headlabel>li:eq("+index+")").animate({
+					        left:'+5px',
+				  },"slow");
+			   },function(){
+				   var index = $(this).index();
+				   $("#headlabel>li:eq("+index+")").animate({
+				   		    left:'0px',
+				   },100);
+			   }); 
+			});
+		</script>
+	</body>
+</html>

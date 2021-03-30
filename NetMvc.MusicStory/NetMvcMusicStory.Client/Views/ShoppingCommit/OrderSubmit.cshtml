@@ -1,0 +1,133 @@
+﻿@*去掉头部*@
+@{
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+    Layout = null;
+}
+
+
+@*引入js样式*@
+@*@Scripts.Render("");*@
+@*引入css样式*@
+@{
+    ViewBag.Title = "Index";
+}
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Item Order Form</title>
+    <!-- Meta tag Keywords -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8" />
+    <meta name="keywords" content="Item Order Form Responsive Widget,Login form widgets, Sign up Web forms , Login signup Responsive web form,Flat Pricing table,Flat Drop downs,Registration Forms,News letter Forms,Elements" />
+    <script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+    <!-- Meta tag Keywords -->
+    <!-- css files -->
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+    <!-- Style-CSS -->
+    <!-- Font-Awesome-Icons-CSS -->
+    <!-- //css files -->
+    <!-- web-fonts -->
+    <link href="//fonts.googleapis.com/css?family=Ubuntu:400,500" rel="stylesheet">
+    <script src="~/Content/Ui/ShoppingCart/jquery-1.11.min.js"></script>
+    <link href="~/Content/Ui/ShoppingCart/bootstrap.min.css" rel="stylesheet" />
+
+    <title>结账表单页面</title>
+    <!--Bootstrap core CSS-->
+    <link rel="stylesheet" href="~/Content/Ui/Order/css/style.css">
+</head>
+<body>
+
+    <!-- title -->
+    <h1 class="header-w3ls" style="color:black">Item Order Form</h1>
+    <!-- //title -->
+    <!-- content -->
+    <div class="porduct-order-agile">
+        <form action="#" method="post">
+            <div id="Infor">
+                <div class='form-group'>
+                    <p>购买人:</p>
+                    <input id="userName" type='text' name='name' value=" " readonly>
+                </div>
+            </div>
+        </form>
+        <div id="ItemInfor">
+        </div>
+        <button type="submit" class="btn btn-primary" onclick="AddOrder()">Submit</button>
+    </div>
+    <input type="hidden" name="name" id="ViewBagData" value="@ViewBag.Data" />
+</body>
+</html>
+<script>
+    //提前定义
+    var data = [];
+    var $dataItem = '';
+    var ShoppingItem = '';
+    var element = $("#Infor");
+    var ccc = $("#ItemInfor");
+    var data = $("#ViewBagData").val();
+
+    var list = [];
+    $(function () {
+        InitData();
+    });
+
+    function InitData() {
+        data = JSON.parse(data);//返回的数据非标准json，转化一下
+        $.each(
+            data.data.data,
+            function (i, item) {
+                list[i] = item[0].Id
+                ShoppingItem += "<li class='list-group-item d-flex justify-content-between lh-condensed'>";
+                ShoppingItem += "<div> ";
+                ShoppingItem += " <img style='width: 50px; height: 50px' src='" + item[0].AlbumUrl + "' alt='" + item[0].AlbumName + "' />";
+                ShoppingItem += "<h6 class='my-0'>" + item[0].AlbumName + "</h6>";
+                ShoppingItem += "<small class='text-muted'>" + item[0].AlbumDescription + "</small>";
+                ShoppingItem += "</div>";
+                ShoppingItem += "<span class='text-muted'>￥" + item[0].Price + "</span>";
+                ShoppingItem += "</br>";
+                ShoppingItem += "<span>折后价：</span><span class='text-muted'>￥" + item[0].AmountActuallyPaid + "</span>";
+                ShoppingItem += "</br>";
+                ShoppingItem += "<span>总价</span>";
+                ShoppingItem += "<strong>￥" + item[0].SubTotalPrice + "</strong>";
+                ShoppingItem += "</li>";
+                $("#userName").val(item[0].UserName);
+                $("#userEmail").val(item[0].UserEmail);
+            });
+        ccc.prepend(ShoppingItem);
+    }
+
+    function AddOrder() {
+        $.each(
+            list,
+            function (i, item) {
+                $.ajax({
+                    type: 'Post',
+                    async: false,
+                    url: "AddOrders?id=" + item,
+                    datatype: 'json',
+                    success: function () {
+                        $.ajax({
+                            type: 'Get',
+                            async: true,
+                            url: "/ShoppingCart/DeleteSingleShoppingCartItems?id=" + item,
+                            datatype: 'json',
+                            success: function () {
+                            }
+                        })
+                    }
+                });
+            });
+        alert("提交成功");
+        window.location.href = "/Home";
+    }
+</script>

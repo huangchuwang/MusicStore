@@ -1,0 +1,486 @@
+﻿@{ Layout = null; }
+@Styles.Render("~/Content/layui/css")
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>layui</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <style>
+        #modeleditAdminUser {
+            padding: 40px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="layuimini-container">
+        <div class="layuimini-main">
+            <fieldset class="table-search-fieldset">
+                <legend>搜索信息</legend>
+                <div style="margin: 10px 10px 10px 10px">
+                    <form class="layui-form layui-form-pane" action="">
+                        <div class="layui-form-item">
+                            <div class="layui-inline">
+                                <label class="layui-form-label">专辑名称搜索</label>
+                                <div class="layui-input-inline">
+                                    <input type="text" name="name" autocomplete="off" class="layui-input">
+                                </div>
+                            </div>
+                            <div class="layui-inline">
+                                <button type="submit" class="layui-btn layui-btn-primary" lay-submit
+                                        lay-filter="data-search-btn">
+                                    <i class="layui-icon"></i> 搜 索
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </fieldset>
+            <!-- 编辑页 -->
+            <script type="text/html" id="editAdminUser">
+                <form id="modeleditAdminUser" lay-filter="modeleditAdmin" style="padding-top:40px" class="layui-form model-form">
+                    <div style="text-align:center">
+                        <input name="Id" type="hidden" />
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">专辑名称</label>
+                            <div class="layui-input-block">
+                                <input type="text" name="Name" lay-verify="name" placeholder="请输入" value="" class="layui-input">
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">专辑歌手</label>
+                            <div class="layui-input-block" style="width: 40%;">
+                                <select id="artistid" lay-verify="required" name="artist">
+                                    <option value=""></option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">所属流派</label>
+                            <div class="layui-input-block" style="width: 40%;">
+                                <select id="genreid" lay-verify="required" name="genre">
+                                    <option value=""></option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">专辑简介</label>
+                            <div class="layui-input-block">
+                                <textarea name="Description" lay-verify="description" placeholder="请输入" class="layui-textarea"></textarea>
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">出版日期</label>
+                            <div class="layui-input-block">
+                                <input name="OperationDate" id="time2" type="datetime" required lay-verify="required" placeholder="出版日期" autocomplete="off" class="layui-input">
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">专辑售价</label>
+                            <div class="layui-input-block">
+                                <input type="number" lay-verify="price" name="Price" placeholder="请输入" value="" class="layui-input">
+                            </div>
+                        </div>
+
+                        <div class="layui-form-item">
+                            <div style="text-align:center">
+                                <button class="layui-btn layui-btn-normal" lay-submit lay-filter="saveBtn">确认修改</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </form>
+            </script>
+
+            <!-- 添加 -->
+            <script type="text/html" id="addAdminUser">
+                <form id="modeleditAdminUser" lay-filter="modeladd" style="padding-top:40px" class="layui-form model-form">
+
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">专辑名称</label>
+                        <div class="layui-input-block">
+                            <input type="text" name="name" placeholder="请输入" lay-verify="name" class="layui-input">
+                        </div>
+                    </div>
+
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">专辑歌手</label>
+                        <div class="layui-input-block" style="width: 40%;">
+                            <select id="artistid" lay-verify="required" name="artist">
+                                <option value=""></option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">所属流派</label>
+                        <div class="layui-input-block" style="width: 40%;">
+                            <select id="genreid" lay-verify="required" name="genre">
+                                <option value=""></option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">专辑简介</label>
+                        <div class="layui-input-block">
+                            <textarea name="description" lay-verify="description" placeholder="请输入" class="layui-textarea"></textarea>
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">出版日期</label>
+                        <div class="layui-input-block">
+                            <input name="operationdate" type="datetime" id="time1" required lay-verify="required" placeholder="出版日期" autocomplete="off" class="layui-input">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">专辑售价</label>
+                        <div class="layui-input-block">
+                            <input type="number" name="price" placeholder="请输入" value="" required lay-verify="price" class="layui-input">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <div style="text-align:center">
+                            <button class="layui-btn layui-btn-normal" lay-submit lay-filter="saveBtn">确认添加</button>
+                        </div>
+                    </div>
+                </form>
+            </script>
+
+
+            @*图片上传*@
+            <script type="text/html" id="AddPhotograph">
+                <form id="Adminimg" lay-filter="Adminimg" style="padding-top:20px" class="layui-form model-form">
+                    <div style="text-align:center">
+                        <div class="layui-upload-list">
+                            <img title="专辑封面" class="layui-upload-img" id="preview">
+                        </div>
+                        <div>
+                            <input type="file" accept="image/*" name="file" id="file" />
+                        </div>
+                        <div class="layui-form-item">
+                            <div style="padding-top:30px">
+                                <button class="layui-btn layui-btn-normal" id="addImg" type="button" lay-submit lay-filter="addImg">确认保存</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </script>
+
+
+            <script type="text/html" id="toolbarDemo">
+                <div class="layui-btn-container">
+                    <button class="layui-btn layui-btn-normal layui-btn-sm data-add-btn" lay-event="add"> <i class="layui-icon">&#xe654;</i>添加专辑 </button>
+                </div>
+            </script>
+            <table class="layui-hide" id="currentTableId" lay-filter="currentTableFilter"></table>
+            <script type="text/html" id="currentTableBar">
+                <a class="layui-btn layui-btn-sm data-count-edits" lay-event="photograph"><i class="layui-icon"></i>专辑图片管理</a>
+                <a class="layui-btn layui-btn-sm data-count-edit" lay-event="edit"><i class="layui-icon">&#xe642;</i>编辑</a>
+                <a class="layui-btn layui-btn-sm layui-btn-danger data-count-delete" lay-event="delete"><i class="layui-icon">&#xe640;</i>删除</a>
+            </script>
+        </div>
+    </div>
+    @Scripts.Render("~/Content/layui/js")
+    <script>
+
+        layui.use(['jquery', 'upload', 'form', 'laydate', 'table'], function () {
+            var $ = layui.jquery,
+                form = layui.form,
+                table = layui.table;
+            var laydate = layui.laydate;
+            var upload = layui.upload;
+            form.render();
+
+            table.render({
+                elem: '#currentTableId',
+                url: "SelectList",
+                toolbar: '#toolbarDemo',
+                defaultToolbar: ['filter', 'exports', 'print', {
+                    title: '提示',
+                    layEvent: 'LAYTABLE_TIPS',
+                    icon: 'layui-icon-tips'
+                }],
+                cols: [[
+                    { type: "checkbox", width: 50 },
+                    { field: 'Name', width: 150, title: '专辑名称' },
+                    { field: 'ArtistName', width: 100, title: '专辑歌手' },
+                    { field: 'GenreName', width: 100, title: '流派' },
+                    { field: 'Price', width: 130, title: '专辑售价(元)', sort: true },
+                    { field: 'Description', width: 200, title: '流派简介' },
+                    { field: 'OperationDate', width: 200, title: '出版日期', sort: true },
+                    { title: '操作', minWidth: 50, templet: '#currentTableBar', fixed: "right", align: "center" }
+                ]],
+                limits: [5,10, 15, 20, 25, 50, 100],
+                limit: 5,
+                page: true,
+                skin: 'line'
+            });
+
+
+
+
+            //自定义数据验证
+
+            form.verify({
+                name: function (value) {
+                    if (value == "") {
+                        return '专辑名称不能为空';
+                    }
+                    if (!new RegExp("^[a-zA-Z0-9_\u4e00-\u9fa5\\s·]+$").test(value)) {
+                        return '专辑名称不能有特殊字符';
+                    } else if (value.length < 2) {
+                        return '专辑名称不能少于两个字符';
+                    }
+                }
+                , price: function (value) {
+                    if (value < 1) {
+                        return '售价不能小于1';
+                    }
+                }
+
+            });
+
+            form.verify({
+                name: function (value) {
+                    if (value == "") {
+                        return '专辑名称不能为空';
+                    }
+                    if (!new RegExp("^[a-zA-Z0-9_\u4e00-\u9fa5\\s·]+$").test(value)) {
+                        return '专辑名称不能有特殊字符';
+                    } else if (value.length < 2) {
+                        return '专辑名称不能少于两个字符';
+                    }
+                }
+                , price: function (value) {
+                    if (value < 1) {
+                        return '售价不能小于1';
+                    }
+                }
+
+            });
+
+
+            form.on('submit(data-search-btn)', function (data) {
+                var albumname = data.field.name;
+                if (data == '') {
+                    table.reload('currentTableId', 'data');
+                    return false;
+                }
+                //执行搜索重载表格
+                table.reload('currentTableId', {
+                    url: "GetAlbum", //搜索接口
+                    page: {
+                        curr: 1
+                    }
+                    , where: {
+                        name: albumname,
+                    }
+                });
+
+                return false;
+            });
+
+
+            //添加
+            table.on('toolbar(currentTableFilter)', function (obj) {
+                if (obj.event === 'add') {
+                    layer.open({
+                        type: 1,
+                        area: ['50%', '80%'],
+                        title: '添加专辑',
+                        shadeClose: true,
+                        content: $('#addAdminUser').html(),
+                        success: function (layero, dIndex) {
+
+                            laydate.render({
+                                elem: '#time1'
+                                , type: 'datetime'
+                                , trigger: 'click'
+                            });
+
+
+
+                            $.ajax({
+                                url: "ArtistSelectMenu",
+                                dataType: 'json',
+                                type: 'post',
+                                success: function (data) {
+                                    $.each(data, function (index, item) {
+                                        $('#artistid').append(new Option(item.Name, item.Id));
+                                    });
+                                    layui.form.render("select");
+                                }
+                            });
+
+                            $.ajax({
+                                url: "GenreSelectMenu",
+                                dataType: 'json',
+                                type: 'post',
+                                success: function (data) {
+                                    $.each(data, function (index, item) {
+                                        $('#genreid').append(new Option(item.Name, item.Id));
+                                    });
+                                    layui.form.render("select");
+                                }
+                            });
+
+                            // 表单提交事件
+                            form.on('submit(saveBtn)', function (data) {
+                                layer.load(2);
+                                $.post("CreateAlbum", data.field, function (res) {
+                                    layer.closeAll('loading');
+                                    if (res.code == 0) {
+                                        layer.close(dIndex);
+                                        layer.msg(res.msg, { icon: 1 });
+                                        table.reload('currentTableId');
+                                    } else {
+                                        layer.msg(res.msg, { icon: 2 });
+                                    }
+                                }, 'json');
+                                return false;
+                            });
+
+                        }
+                    });
+
+                }
+            });
+
+
+            table.on('tool(currentTableFilter)', function (obj) {
+                var data = obj.data;
+                if (obj.event === 'edit') {
+                    layer.open({
+                        type: 1,
+                        area: ['50%', '80%'],
+                        title: '编辑',
+                        shadeClose: true,
+                        content: $('#editAdminUser').html(),
+                        success: function (layero, dIndex) {
+                            form.val('modeleditAdmin', data);  //回显数据
+                            laydate.render({
+                                elem: '#time2'
+                                , type: 'datetime'
+                                , trigger: 'click'
+                            });
+
+                            $.ajax({
+                                url: "ArtistSelectMenu",
+                                dataType: 'json',
+                                type: 'post',
+                                success: function (data) {
+                                    $.each(data, function (index, item) {
+                                        $('#artistid').append(new Option(item.Name, item.Id));
+                                    });
+                                    layui.form.render("select");
+                                }
+                            });
+
+                            $.ajax({
+                                url: "GenreSelectMenu",
+                                dataType: 'json',
+                                type: 'post',
+                                success: function (data) {
+                                    $.each(data, function (index, item) {
+                                        $('#genreid').append(new Option(item.Name, item.Id));
+                                    });
+                                    layui.form.render("select");
+                                }
+                            });
+
+                            // 表单提交事件
+                            form.on('submit(saveBtn)', function (data) {
+                                layer.load(2);
+                                $.post("EditAlbum", data.field, function (res) {
+                                    layer.closeAll('loading');
+                                    if (res.code == 0) {
+                                        layer.close(dIndex);
+                                        layer.msg(res.msg, { icon: 1 });
+                                        table.reload('currentTableId'); //重载表格
+                                    } else {
+                                        layer.msg(res.msg, { icon: 2 });
+                                    }
+                                }, 'json');
+                                return false;
+                            });
+                        }
+                    });
+
+                    return false;
+                } else if (obj.event === 'delete') {
+                    layer.confirm('确认删除 ' + data.Name + " ?", function (index) {
+                        $.post("Delete", { 'id': data.Id }, function (res) {
+                            if (res.code == 0) {
+                                obj.del();
+                                layer.msg(res.msg, { icon: 1 });//提示说明
+                                table.reload('currentTableId'); //重载表格
+                                layer.close(index);//再执行关闭
+                            } else {
+                                layer.msg(res.msg, { icon: 2 });
+                            }
+                        }, 'json');
+                    });
+                } else if (obj.event === 'photograph') {
+                    layer.open({
+                        type: 1,
+                        area: ['50%', '80%'],
+                        title: '添加照片',
+                        shadeClose: true,
+                        content: $('#AddPhotograph').html(),
+                         success: function (layero, dIndex) {
+                          form.val('Adminimg', data);  //回显数据
+
+           
+                            //图片上传
+                            var uploadInst = upload.render({
+                                elem: '#file'               //绑定元素
+                                , url: '/FileUpload/Upload' //上传接口
+                                , auto: false               //自动提交
+                                , accept: 'file'	        //允许上传的文件类型
+                                , bindAction: '#addImg'
+                                , done: function (res) {
+
+                                $.post("EditAImg", {'id': data.Id, 'urlstring':res.urlstring }, function (res) {
+                                        if (res.code == 0) {
+                                            layer.close(dIndex);
+                                            layer.msg(res.msg, { icon: 1 });
+                                            table.reload('currentTableId'); //重载表格
+                                        } else {
+                                            layer.msg(res.msg, { icon: 2 });
+                                        }
+                                    }, 'json');                                 
+
+                                }
+                            });  
+
+                            var fileDom = document.getElementById("file");
+                            var previewDom = document.getElementById("preview");
+                            if (data.UrlString !== null) {
+                                previewDom.src = data.UrlString;
+                            }
+                            fileDom.addEventListener("change", e => {
+                                var file = fileDom.files[0];
+                                //检查输入是否包含有效的图像文件
+                                if (!file || file.type.indexOf("image/") < 0) {
+                                    fileDom.value = "";
+                                    previewDom.src = "";
+                                    return;
+                                }
+                                var fileReader = new FileReader();
+                                fileReader.onload = e => {
+                                    previewDom.src = e.target.result;
+                                };
+                                fileReader.readAsDataURL(file);
+                            });
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>

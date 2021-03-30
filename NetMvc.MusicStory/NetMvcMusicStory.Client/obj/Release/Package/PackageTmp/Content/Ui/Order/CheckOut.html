@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html>
+  <head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <meta name="description" content="CheckOut">
+    <meta name="author" content="https://gitee.com/PirateFlag">
+    <title>结账表单页面</title>
+    <!--Bootstrap core CSS-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <!--Custom CSS-->
+    <link rel="stylesheet" href="checkout.css">
+
+  </head>
+  <body class="bg-light">
+    <header>
+      <div class="container">
+        <div class="py-5 text-center">
+          <img class="d-block mx-auto mb-2" src="money.png" alt="" width="72" height="72">
+          <h2>结账表单</h2>
+          <p class="lead">本示例完全使用Bootstrap表单控制器所制作</p>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="row">
+        <!--结账区域-->
+        <div class="col-md-6 order-md-1 offset-2">
+          <h4 class="mb-3">结账地址</h4>
+          <form class="needs-validation" novalidate="novalidate" action="">
+            <div class="row">
+              <div class="col-md-6 mb-3">
+                <label class="firstName">姓氏</label>
+                <input type="text" class="form-control" id="firstName" placeholder="请输入您的姓" value="" required>
+                <div class="invalid-feedback">
+                  需要输入您的姓
+                </div>
+              </div>
+              <div class="col-md-6 mb-3">
+                <label class="firstName">名字</label>
+                <input type="text" class="form-control" id="lastName" placeholder="请输入您的名" value="" required>
+                <div class="invalid-feedback">
+                  需要输入您的名字
+                </div>
+              </div>
+            </div>
+
+            <div class="mb-3">
+              <label for="username">用户名</label>
+              <div class="input-group">
+                <div class="input-group-prepend">
+                  <span class="input-group-text">@</span>
+                </div>
+                <input type="text" class="form-control" id="userName" placeholder="请输入用户名" required>
+                <div class="invalid-feedback" style="width:100%;">
+                  请输入您的用户名
+                </div>
+              </div>
+            </div>
+
+            <div class="mb-3">
+              <label for="email">E-mail邮箱
+                <span class="text-muted">
+                  (备用)
+                </span>
+              </label>
+              <input type="email" class="form-control" id="email" placeholder="请输入邮箱" required>
+              <div class="invalid-feedback">
+                请输入您的邮箱以备不时之需
+              </div>
+            </div>
+
+            <div class="mb-3">
+              <label for="address">收货地址</label>
+              <input type="text" class="form-control" id="address" placeholder="请输入收货地址" required>
+              <div class="invalid-feedback">
+                请输入您的收货地址
+              </div>
+            </div>
+
+            <div class="mb-3">
+              <label for="address2">收货地址
+                <span class="text-muted">
+                  (备用)
+                </span>
+              </label>
+              <input type="text" class="form-control" id="address2" placeholder="请输入备用收货地址">
+            </div>
+
+            <div class="row">
+              <div class="col-md-5 mb-3">
+                <label for="country">国家</label>
+                <select class="custom-select d-block w-100" id="country" required>
+                  <option value="">请选择</option>
+                  <option>中国</option>
+                  <option>中国香港</option>
+                  <option>中国澳门</option>
+                  <option>中国台湾</option>
+                </select>
+                <div class="invalid-feedback">
+                  请选择一个地区
+                </div>
+              </div>
+
+              <div class="col-md-4 mb-3">
+                <label for="state">地区</label>
+                <select class="custom-select d-block w-100">
+                  <option  vlaue="">请选择</option>
+                  <option>北京</option>
+                  <option>上海</option>
+                  <option>广州</option>
+                  <option>深圳</option>
+                  <option>湖北</option>
+                </select>
+                <div class="invalid-feedback">
+                  请输入所在省市
+                </div>
+              </div>
+
+              <div class="col-md-3 mb-3">
+                <label for="zip">街道</label>
+                <input type="text" class="form-control" id="zip" placeholder="天安门" required>
+                <div class="invalid-feedback">
+                  请输入街道
+                </div>
+              </div>
+            </div>
+            <hr class="mb-4">
+            <div class="custom-control custom-checkbox">
+              <input type="checkbox" class="custom-control-input" id="same-address">
+              <label class="custom-control-label" for="same-address">对所有商品都使用相同地址</label>
+            </div>
+            <div class="custom-control custom-checkbox">
+              <input type="checkbox" class="custom-control-input" id="save-info">
+              <label class="custom-control-label" for="save-info">保存信息直到下次使用</label>
+            </div>
+
+            <hr class="mb-4">
+
+            <h4 class="mb-3">支付方式</h4>
+
+            <div class="d-block my-3">
+              <div class="custom-control custom-radio">
+                <input id="credit" name="paymentMethod" type="radio" class="custom-control-input" check required>
+                <label class="custom-control-label" for="credit">银联卡支付</label>
+              </div>
+              <div class="custom-control custom-radio">
+                <input id="paypal" name="paymentMethod" type="radio" class="custom-control-input" required>
+                <label class="custom-control-label" for="paypal">paypal支付</label>
+              </div>
+              <div class="custom-control custom-radio">
+                <input id="alibaba" name="paymentMethod" type="radio" class="custom-control-input" required>
+                <label class="custom-control-label" for="alibaba">支付宝支付</label>
+              </div>
+              <div class="custom-control custom-radio">
+                <input id="weixinpay" name="paymentMethod" type="radio" class="custom-control-input" required>
+                <label class="custom-control-label" for="weixinpay">微信支付</label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-6 mb-3">
+                <label for="cc-name">支付人姓名</label>
+                <input type="text" class="form-control" id="cc-name" placeholder="请输入姓名" required>
+                <small class="text-muted">请输入完整姓名</small>
+                <div class="invalid-feedback">
+                  请输入姓名
+                </div>
+              </div>
+              <div class="col-md-6 mb-3">
+                <label for="cc-name">支付卡号</label>
+                <input type="text" class="form-control" id="cc-number" placeholder="请输入卡号" required>
+                <small class="text-muted">请输入完整卡号</small>
+                <div class="invalid-feedback">
+                  请输入卡号
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-3 mb-3">
+                <label for="cc-expection">验证</label>
+                <input type="text" class="form-control" id="cc-expection" placeholder="输入验证码" required>
+                <div class="invalid-feedback">
+                  需要输入验证码
+                </div>
+              </div>
+              <div class="col-md-3 mb-3">
+                <label for="cc-expection">CVV</label>
+                <input type="text" class="form-control" id="cc-cvv" placeholder="输入CVV" required>
+                <div class="invalid-feedback">
+                  需要输入CVV
+                </div>
+              </div>
+            </div>
+
+            <hr class="mb-4">
+            <button class="btn btn-primary btn-lg btn-block" type="submit">提交订单</button>
+          </form>
+        </div>
+
+        <!--购物车区域-->
+        <div class="col-md-2 order-md-2">
+          <h4 class="d-flex  align-items-center mb-3">
+            <span class="text-muted">购物车</span>
+            <span class="badge badge-secondary badge-pill">3</span>
+          </h4>
+          <ul class="list-group mb-3">
+            <li class="list-group-item d-flex justify-content-between lh-condensed">
+              <div>
+                <h6 class="my-0">产品名称1</h6>
+                <small class="text-muted">详细介绍1</small>
+              </div>
+              <span class="text-muted">$12</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between lh-condensed">
+              <div>
+                <h6 class="my-0">产品名称2</h6>
+                <small class="text-muted">详细介绍2</small>
+              </div>
+              <span class="text-muted">$8</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between lh-condensed">
+              <div>
+                <h6 class="my-0">产品名称3</h6>
+                <small class="text-muted">详细介绍3</small>
+              </div>
+              <span class="text-muted">$5</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between bg-light">
+              <div class="text-success">
+                <h6 class="my-0">减免码</h6>
+                <small class="text-muted">优惠折扣</small>
+              </div>
+              <span class="text-muted">$-5</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-betweeen">
+              <span>Total(USD)</span>
+              <strong>$20</strong>
+            </li>
+          </ul>
+          <div class="container">
+            <form class="card p-2">
+              <div class="input-group">
+                <input type="text" class="form-control" placeholder="请输入减免码">
+                <div>
+                  <button type="submit" class="btn btn-secondary">立减</button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+        
+
+      </div>
+    </main>
+    <footer class="my-5 pt-5 text-muted text-center text-small">
+      <p class="mb-1">&copy;2019-2020 公司名称</p>
+      <ul class="list-inline">
+        <li class="list-inline-item">意见反馈</li>
+        <li class="list-inline-item">支持我们</li>
+        <li class="list-inline-item">合作联系</li>
+        <li class="list-inline-item">免责声明</li>
+      </ul>
+    </footer>
+
+    <!--Jquery的CDN依赖-->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!--popper的CDN依赖-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <!--bootstrap的CDN依赖-->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+  </body>
+</html>

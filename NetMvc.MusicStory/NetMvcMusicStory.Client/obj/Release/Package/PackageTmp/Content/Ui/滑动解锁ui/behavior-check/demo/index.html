@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>前端滑动拼图验证插件</title>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <meta name="keywords" content="前端滑动拼图验证插件">
+    <meta name="description" content="这仅仅只是前端滑动验证的一个空壳，具体细节可以自定义回调函数，并结合后端完成验证。另外样式方面，推荐直接修改源css文件，但是对于class选择器名称最好不要修改，除非源js也已经修改。支持移动端。">
+    <meta name="author" content="flamesnow">
+    <link href="./css/splice.min.css" rel="stylesheet">
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+        .container {
+            width: 270px; 
+            height: 40px; 
+            margin: 300px auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <!-- 
+            下面都为js动态加载，只需提供放置验证框的容器即可。
+            <div class="bc-splice">
+                <div class="bc-splice__screen">
+                    <div class="bc-splice__img">
+                        <span class="bc-splice__button--update"></span>
+                        <span class="bc-splice__button--close"></span>
+                        <canvas class="bc-splice__canvas--rip"></canvas>
+                        <canvas class="bc-splice__canvas--piece"></canvas>
+                    </div>
+                </div>
+                <div class="bc-splice__strip">
+                    <div class="bc-splice__button--slide"></div>
+                </div>
+                
+                <div class="bc-splice__prompt--ready"></div>
+                <div class="bc-splice__prompt--start"></div>
+                <div class="bc-splice__prompt--slide"></div>
+                <div class="bc-splice__prompt--check"></div>
+                <div class="bc-splice__prompt--success"></div>
+                <div class="bc-splice__prompt--fail"></div>
+            </div>
+        -->
+    </div>
+
+    <script src="./js/splice.min.js"></script>
+    <script>
+        new Splice({
+            // 传入的dom容器表示。必需。
+            el: ".container",
+            // 传入的图片列表，是一个数组。必需。
+            imgs: [
+                "https://k.zol-img.com.cn/sjbbs/7692/a7691501_s.jpg",
+                "https://k.zol-img.com.cn/sjbbs/7692/a7691398_s.jpg",
+                "https://k.zol-img.com.cn/sjbbs/7692/a7691400_s.jpg",
+                "https://k.zol-img.com.cn/sjbbs/7692/a7691401_s.jpg",
+                "https://k.zol-img.com.cn/sjbbs/7692/a7691403_s.jpg",
+                "https://k.zol-img.com.cn/sjbbs/7692/a7691406_s.jpg",
+                "http://k.zol-img.com.cn/sjbbs/7692/a7691515_s.jpg"
+            ],
+            // 缺口吻合时的左右容差。
+            dis: {
+                left: 3,
+                right: 3
+            },
+            /*
+                缺口在canvas中绘制区域范围。
+                这里的范围不是其绘制区域getContetx(2d)的范围，是相对该canvas在页面中所占位置的大小（px）。
+            */
+            range: {
+                top: 5,
+                right: 5,
+                bottom: 5,
+                left: 100
+            },
+            /*
+                canvas绘制区域相对于页面所占位置区域的比率（由于移动端分辨率问题，同比率下绘制结果会失真）。
+            */
+            scale: 2,
+            /*
+                操作成功另外所需条件的函数，没有则会在拼合完成后执行success函数。
+                会接收2个参数，第一个是成功执行的操作函数，第二个是失败执行的操作函数，在条件满足时，手动调用即可。
+            */
+            condition(success, fail) {
+                setTimeout(() => {
+                  success();
+                }, 3000);
+            },
+            success() {
+                console.log("验证成功");
+            },
+            fail() {
+                console.log("验证失败");
+            }
+        });
+    </script>
+</body>
+</html>

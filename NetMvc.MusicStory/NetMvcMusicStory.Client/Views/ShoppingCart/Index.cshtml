@@ -1,0 +1,196 @@
+﻿@{
+    Layout = null;
+}
+@*@Scripts.Render("~/Content/shoppingcart/css")
+    @Scripts.Render("~/Content/shoppingcart/js")*@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shopping Cart</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script src="~/Content/Ui/ShoppingCart/jquery-1.11.min.js"></script>
+    <script src="~/Content/Ui/ShoppingCart/etao.js" defer></script>
+    <script src="~/Content/Ui/ShoppingCart/cart.js" defer></script>
+    <link href="~/Content/Ui/ShoppingCart/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/Ui/ShoppingCart/cart.css" rel="stylesheet" />
+    <link href="~/Content/Ui/ShoppingCart/etao.css" rel="stylesheet" />
+</head>
+<body class="container">
+    <div class="row hidden-print">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <ol class="breadcrumb">
+                <li><a href="/home">首页</a></li>
+                <li class="active">查看购物车</li>
+            </ol>
+        </div>
+    </div>
+    <div class="cart-wrap">
+        <table id="cartTable" class="cart table table-condensed">
+            <thead>
+                <tr>
+                    <th class="t-checkbox"><label><input class="check-all check" type="checkbox" />全选</label></th>
+                    <th class="t-goods text-center"><label>专辑名称</label></th>
+                    <th class="text-center">产品备注</th>
+                    <th class="t-selling-price text-center"><label>销售单价</label></th>
+                    <th class="text-center"><label>折后价</label></th>
+                    <th class="t-qty text-center"><label>采购数量</label></th>
+                    <th class="t-subtotal text-center"><label>金额小计</label></th>
+                    <th class="t-action"><label>操作</label></th>
+                </tr>
+            </thead>
+            <tbody id="ShoppingCartItems"></tbody>
+        </table>
+        <div class="row">
+            <div class="col-md-12 col-lg-12 col-sm-12">
+                <div class="cart-summary">
+                    <div style="margin-left: 2rem;" class="pull-right">
+                        <button type="button" class="btn btn-danger" onclick="DeleteAll()">清空购物车</button>
+                        <button id="btn_settlement" type="button" class="btn btn-primary" disabled onclick="CheckShopopingCart()">去结算</button>
+                    </div>
+                    <div style="margin-left: 1rem; margin-top: 0.4rem;" class="pull-right total">
+                        <label>金额合计:<span id="priceTotal" class="price-total large-bold-red">0.00</span></label>
+                    </div>
+                    <div style="margin-top: 4px;" class="pull-right">
+                        <label>
+                            您选择了<span id="itemCount" class="large-bold-red" style="margin: 0 4px;"></span>个商品，共计<span id="qtyCount" class="large-bold-red" style="margin: 0 4px;"></span>件
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<script>
+    //提前定义
+    var list = [];
+    var $dataItem = '';
+    var element = $("#ShoppingCartItems");
+
+
+    $(function () {
+        InitData();
+    });
+
+
+
+    function InitData() {
+        $.ajax({
+            type: 'Get',
+            async: false,
+            url: "GetAllShoppingCart",
+            datatype: 'json',
+            success: function (data) {
+                data = JSON.parse(data);//返回的数据非标准json，转化一下
+                $.each(
+                    data.data,
+                    function (i, item) {
+                        list[i] = item.Id;
+                        //console.log((Date.parse(nowTime) - Date.parse(endDate)) / (1000 * 60 * 60 * 24));
+                        $dataItem += '<tr>';
+                        $dataItem += '<td colspan="2" class="goods"><label> <input type="checkbox" name="checkbox" class="check-one check" value=' + item.Id + '><span>' + (i + 1) + '.<img style="width:50px;height:50px" src="' + item.AlbumUrl + '" /></span>' + item.Name + '</label></td>';
+                        $dataItem += '<td>' + item.AlbumDescription + '</td><td class="small-bold-red text-center" style="padding-top: 1.1rem;">￥' + item.Price + '</td>';
+                        $dataItem += '<td class="selling-price number small-bold-red text-right" style="padding-top: 1.1rem;" data-bind="' + item.DiscountPrice + '">';
+                        $dataItem += '</td>';
+                        $dataItem += '<td>';
+                        $dataItem += '<div class="input-group input-group-sm"><span class="input-group-addon minus">-</span> <input type="text" class="number form-control input-sm" id=' + item.Id + ' value="' + item.Quantity + '" /><span class="input-group-addon plus">+</span>';
+                        $dataItem += '</td>';
+                        $dataItem += '<td class="subtotal number small-bold-red text-right" style="padding-top: 1.1rem;" id=' + i + '></td>';
+                        $dataItem += '<td class="action" style="padding-top: 1.1rem;"><button class = "btn btn-xs btn-warning" onclick="DeleteShoppingCartItems(\'' + item.Id + '\')">删除</button></td>';
+                        $dataItem += '</tr>';
+
+                    });
+                element.prepend($dataItem);
+            }
+        })
+
+    }
+    function DeleteShoppingCartItems(id) {
+        $.ajax({
+            type: 'Get',
+            async: false,
+            url: "DeleteSingleShoppingCartItems?id=" + id,
+            datatype: 'json',
+            success: function () {
+                alert("删除成功");
+                window.location.reload();
+            }
+        })
+    }
+
+    function DeleteAll() {
+        $.each(
+            list,
+            function (i) {
+                $.ajax({
+                    type: 'Get',
+                    async: false,
+                    url: "DeleteSingleShoppingCartItems?id=" + list[i],
+                    datatype: 'json',
+                    success: function () {
+
+                    }
+                })
+            }
+        );
+        alert("删除成功");
+        window.location.reload();
+    }
+    function CheckShopopingCart() {
+        SaveData();
+        var data = [];
+        var s = $("input[name='checkbox']");
+        s.each(function (i) {
+            if (this.checked == true) {
+                var obj = {
+                    Id: this.value
+                }
+                data.push(obj);
+            };
+        });
+        var d = JSON.stringify(data)
+        $.post("/ShoppingCommit/CartData", { 'data': d }, function (res) {
+            if (d == null) {
+                alert("空")
+            }
+            else {
+                //$.post("/ShoppingCommit/Index", { 'data': d }, function (res) { }, 'json');
+                //window.location.href = "/ShoppingCommit/Index?data="+d
+                post("/ShoppingCommit/OrderSubmit", { "data": d })
+            }
+        }, 'json');
+    }
+    function SaveData() {
+        var s = $("input[name='checkbox']");
+        s.each(function (i) {
+            if (this.checked == true) {
+                var tmp = $("#" + this.value).val();
+                var id = this.value;
+                var subtotal = $("#" + i).text().split(".")[0];
+                $.ajax({
+                    type: 'Post',
+                    async: false,
+                    url: "EditGetAllShoppingCart?ShoppingcartItemId=" + id + "&Quantity=" + tmp + "&SubTotalPrice=" + subtotal,
+                    datatype: 'string',
+                    success: function () {
+                    }
+                })
+            };
+        });
+    }
+    function post(URL, PARAMS) {
+        var temp_form = document.createElement("form");
+        temp_form.action = URL;
+        temp_form.target = "_blank";
+        temp_form.method = "post";
+        temp_form.style.display = "none";
+        for (var x in PARAMS) {
+            var opt = document.createElement("textarea");
+            opt.name = x;
+            opt.value = PARAMS[x];
+            temp_form.appendChild(opt);
+        }
+        document.body.appendChild(temp_form);
+        temp_form.submit();
+    }
+</script>

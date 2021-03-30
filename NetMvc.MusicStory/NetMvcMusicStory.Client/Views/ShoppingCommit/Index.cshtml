@@ -1,0 +1,115 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ShoppingCommit</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script src="~/Content/Ui/ShoppingCart/jquery-1.11.min.js"></script>
+    <link href="~/Content/Ui/ShoppingCart/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body class="container">
+    <div class="row hidden-print">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <ol class="breadcrumb">
+                <li><a href="/home">首页</a></li>
+                <li class="active">全部订单</li>
+            </ol>
+        </div>
+    </div>
+    <div class="cart-wrap">
+        <table class="table table-condensed">
+            <thead>
+                <tr>
+                    <th class="text-center col-lg-2"><label>专辑名称</label></th>
+                    <th class="text-center col-lg-4"><label>产品备注</label></th>
+                    <th class="text-center col-lg-1"><label>总价</label></th>
+                    <th class="text-center col-lg-1"><label>优惠</label></th>
+                    <th class="text-center col-lg-1"><label>采购数量</label></th>
+                    <th class="text-center col-lg-1"><label>实付金额</label></th>
+                    <th class="text-center col-lg-1"><label>购买时间</label></th>
+                    <th class="text-center col-lg-1"><label>操作</label></th>
+                </tr>
+            </thead>
+            <tbody id="OrderList"></tbody>
+        </table>
+    </div>
+</body>
+</html>
+<script>
+    var $dataItem = '';
+    var element = $("#OrderList");
+
+
+    $(function () {
+        InitData();
+    });
+    function InitData() {
+        $.ajax({
+            type: 'Get',
+            async: false,
+            url: "GetAllOrder",
+            datatype: 'json',
+            success: function (data) {
+                data = JSON.parse(data);//返回的数据非标准json，转化一下
+                $.each(
+                    data.data,
+                    function (i, item) {
+                        $dataItem += '<tr>';
+                        $dataItem += '<td><span>' + (i + 1) + '.<img style="width:50px;height:50px" src="' + item.AlbumUrl + '" /></span>' + item.Name + '</label></td>';
+                        $dataItem += '<td>' + item.AlbumDescription + '</td><td class="small-bold-red text-center" style="padding-top: 1.1rem;">￥' + item.SubTotalPrice + '</td>';
+                        $dataItem += '<td class="small-bold-red text-center" style="padding-top: 1.1rem;">￥' + (item.SubTotalPrice - item.AmountActuallyPaid);
+                        $dataItem += '</td>';
+                        $dataItem += '<td class="small-bold-red text-center" style="padding-top: 1.1rem;">' + item.Quantity + '</td>';
+                        $dataItem += '<td class="small-bold-red text-center" style="padding-top: 1.1rem;">￥' + item.AmountActuallyPaid + '</td>';
+                        $dataItem += '<td class="small-bold-red text-center" style="padding-top: 1.1rem;">' + item.OperationDate + '</td>';
+                        $dataItem += '<td class="action" style="padding-top: 1.1rem;"><span><button class = "btn btn-xs btn-primary" onclick="AddToCart(\'' + item.AlbumId + '\')">添加到购物车</button><button class = "btn btn-xs btn-warning" onclick="DeleteOrder(\'' + item.Id + '\')">删除这个订单</button></span></td>';
+                        $dataItem += '</tr>';
+
+                    });
+                element.prepend($dataItem);
+            }
+        })
+
+    }
+    function formatDatetime(date) {
+        var y = date.getFullYear();
+        var m = date.getMonth() + 1;
+        m = m < 10 ? ('0' + m) : m;
+        var d = date.getDate();
+        d = d < 10 ? ('0' + d) : d;
+        var h = date.getHours();
+        h = h < 10 ? ('0' + h) : h;
+        var minute = date.getMinutes();
+        minute = minute < 10 ? ('0' + minute) : minute;
+        var second = date.getSeconds();
+        second = second < 10 ? ('0' + second) : second;
+        return y + '-' + m + '-' + d + ' ' + h + ':' + minute + ':' + second;
+    };
+    function DeleteOrder(id) {
+        $.ajax({
+            type: 'Get',
+            async: false,
+            url: "DeleteSingleOrder?id=" + id,
+            datatype: 'json',
+            success: function () {
+                alert("删除成功");
+                window.location.reload();
+            }
+        })
+    }
+    function AddToCart(id) {
+        $.ajax({
+            type: 'Post',
+            async: false,
+            url: "/ShoppingCart/CreateShoppingcartItems?Albumid=" + id,
+            datatype: 'json',
+            success: function () {
+                alert("添加成功");
+                window.location.reload();
+            }
+        })
+    }
+</script>

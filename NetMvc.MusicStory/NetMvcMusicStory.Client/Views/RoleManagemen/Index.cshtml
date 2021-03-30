@@ -1,0 +1,342 @@
+﻿@{ Layout = null; }
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>layui</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    @Styles.Render("~/Content/layui/css")
+    <link rel="stylesheet" href="~/Content/layuimini/lib/layui-v2.5.5/css/layui.css" media="all">
+    <link rel="stylesheet" href="~/Content/layuimini/css/public.css" media="all">
+</head>
+
+<body>
+    <style>
+        #modeleditAdmin {
+            padding: 20px;
+        }
+    </style>
+    <div class="layuimini-container">
+        <div class="layuimini-main">
+            <fieldset class="table-search-fieldset">
+                <legend>搜索信息</legend>
+                <div style="margin: 10px 10px 10px 10px">
+                    <form class="layui-form layui-form-pane" action="">
+                        <div class="layui-form-item">
+                            <div class="layui-inline">
+                                <label class="layui-form-label">角色名称</label>
+                                <div class="layui-input-inline">
+                                    <input type="text" name="title" autocomplete="off" class="layui-input">
+                                </div>
+                            </div>
+                            <div class="layui-inline">
+                                <button type="submit" class="layui-btn layui-btn-primary" lay-submit
+                                        lay-filter="data-search-btn">
+                                    <i class="layui-icon"></i> 搜 索
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </fieldset>
+            <!-- 编辑页 -->
+            <script type="text/html" id="editAdminUser">
+                <form id="modeleditAdmin" lay-filter="modeleditAdmin" style="padding-top:40px" class="layui-form model-form">
+                    <div class="layui-form-item">
+                        <input hidden type="text" name="Id" />
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">角色名称</label>
+                            <div class="layui-input-block">
+                                <input type="text" name="Title" placeholder="请输入" lay-verify="name" class="layui-input">
+                            </div>
+                        </div>
+
+                        <div class="layui-form-item">
+                            <div style="text-align:center">
+                                <button class="layui-btn layui-btn-normal" lay-submit lay-filter="saveBtn">确认修改</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </script>
+
+            <!-- 添加 -->
+            <script type="text/html" id="addAdminUser">
+                <form id="modeleditAdmin" lay-filter="modeladd"  style="padding-top:40px" class="layui-form">
+
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">角色名称</label>
+                        <div class="layui-input-block">
+                            <input type="text" name="title" placeholder="请输入" lay-verify="name" class="layui-input">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <div style="text-align:center">
+                            <button class="layui-btn layui-btn-normal" lay-submit lay-filter="saveBtn">确认添加</button>
+                        </div>
+                    </div>
+                </form>
+            </script>
+
+            <script type="text/html" id="toolbarDemo">
+                <div class="layui-btn-container">
+                    <button class="layui-btn layui-btn-normal layui-btn-sm data-add-btn" lay-event="add"> <i class="layui-icon">&#xe654;</i>添加角色</button>
+                </div>
+            </script>
+            <table class="layui-hide" id="currentTableId" lay-filter="currentTableFilter"></table>
+            <script type="text/html" id="currentTableBar">
+                <a class="layui-btn layui-btn-sm data-count-edits" lay-event="addlrc"><i class="layui-icon"></i>规则列表</a>
+              <a class="layui-btn layui-btn-sm data-count-edits" lay-event="edit"><i class="layui-icon"></i>编辑</a>
+                <a class="layui-btn layui-btn-sm layui-btn-danger data-count-delete" lay-event="delete"><i class="layui-icon">&#xe640;</i>删除</a>
+            </script>
+        </div>
+    </div>
+    @Scripts.Render("~/Content/layui/js")
+    <script src="~/Content/layuimini/lib/layui-v2.5.5/layui.js" charset="utf-8"></script>
+    <script>
+        layui.use(['jquery', 'upload', 'form', 'laydate', 'table'], function () {
+            var $ = layui.jquery,
+                form = layui.form,
+                table = layui.table;
+            var laydate = layui.laydate;
+            var upload = layui.upload;
+            form.render();
+
+            table.render({
+                elem: '#currentTableId',
+                url: "/RoleManagemen/SelectList",
+                toolbar: '#toolbarDemo',
+                defaultToolbar: ['filter', 'exports', 'print', {
+                    title: '提示',
+                    layEvent: 'LAYTABLE_TIPS',
+                    icon: 'layui-icon-tips'
+                }],
+                cols: [[
+                    //{ type: "checkbox", width: 50 },
+                    { type: 'numbers', title: 'ID', width: 100, fixed: 'left' },
+                    { field: 'Title', width: 150, title: '角色名称' },
+                    { field: 'Create_time', width: 200, title: '创建时间' },
+                    { field: 'Update_time', width: 200, title: '更新时间' },
+                    {
+                        field: 'status', title: '状态', align: 'center',
+                        templet: function (d) {
+                            var state = "";
+                            if (d.Status == "1") {
+                                state = "<input type='checkbox' value='" + d.Id + "' id='status' lay-filter='stat' checked='checked' name='status'  lay-skin='switch' lay-text='开启|关闭' >";
+                            }else {
+                                state = "<input type='checkbox' value='" + d.Id + "' id='status' lay-filter='stat'  name='status'  lay-skin='switch' lay-text='启用|已禁用' >";
+                            }
+                            return state;
+                        }
+                    },
+                    { title: '操作', minWidth: 50, templet: '#currentTableBar', fixed: "right", align: "center" }
+                ]],
+                limits: [5, 10, 15, 20, 25, 50, 100],
+                limit: 5,
+                page: true,
+                skin: 'line'
+            });
+            //自定义数据验证
+            //form.verify({
+            //    name: function (value) {
+            //        if (value == "") {
+            //            return '专辑名称不能为空';
+            //        }
+            //        if (!new RegExp("^[a-zA-Z0-9_\u4e00-\u9fa5\\s·]+$").test(value)) {
+            //            return '专辑名称不能有特殊字符';
+            //        } else if (value.length < 2) {
+            //            return '专辑名称不能少于两个字符';
+            //        }
+            //    }
+            //    , price: function (value) {
+            //        if (value < 1) {
+            //            return '售价不能小于1';
+            //        }
+            //    }
+            //});
+
+            //form.verify({
+            //    name: function (value) {
+            //        if (value == "") {
+            //            return '专辑名称不能为空';
+            //        }
+            //        if (!new RegExp("^[a-zA-Z0-9_\u4e00-\u9fa5\\s·]+$").test(value)) {
+            //            return '专辑名称不能有特殊字符';
+            //        } else if (value.length < 2) {
+            //            return '专辑名称不能少于两个字符';
+            //        }
+            //    }
+            //    , price: function (value) {
+            //        if (value < 1) {
+            //            return '售价不能小于1';
+            //        }
+            //    }
+
+            //});
+
+            form.on('switch(stat)', function (data){
+                var contexts;
+                var sta;
+                var x = data.elem.checked;//判断开关状态
+                if (x == true) {     
+                    //sta = 1;
+                    $.post("/RoleManagemen/RoleSwitch",{ 'sta': 1, 'id': data.value }, function (res) {
+                        layer.msg(res.msg);
+                    },'json');
+                } else {    
+                    //sta = 0;
+                    $.post("/RoleManagemen/RoleSwitch", { 'sta': 0, 'id': data.value }, function (res) {
+                        layer.msg(res.msg);
+                    },'json');
+                }
+            });
+
+            form.on('submit(data-search-btn)', function (data) {
+                var title = data.field.title;
+                if (data == '') {
+                    table.reload('currentTableId', 'data');
+                    return false;
+                }
+
+
+                //执行搜索重载表格
+                table.reload('currentTableId', {
+                    url: "/RoleManagemen/GetOneRole", //搜索接口
+                    page:{
+                        curr: 1
+                    }
+                    , where:{
+                        title: title,
+                    }
+                });
+
+                return false;
+            });
+
+
+
+            /**
+             * toolbar监听事件
+             */
+            //添加
+            table.on('toolbar(currentTableFilter)', function (obj) {
+                if (obj.event === 'add') {
+                    var path;
+                    layer.open({
+                        type: 1,
+                        area: ['50%', '80%'],
+                        title: '添加用户',
+                        shade: false,//父窗体不可点击
+                        shadeClose: true,
+                        content: $('#addAdminUser').html(),
+                        success: function (layero, dIndex) {
+
+                            // 表单提交事件
+                            form.on('submit(saveBtn)', function (data) {
+                                layer.load(2);
+                                $.post("/UsersManagemen/CreateUsers", data.field, function (res) {
+                                    layer.closeAll('loading');
+                                    if (res.code == 0) {
+                                        layer.close(dIndex);
+                                        layer.msg(res.msg, { icon: 1 });
+                                        table.reload('currentTableId');
+                                    } else {
+                                        layer.msg(res.msg, { icon: 2 });
+                                    }
+                                }, 'json');
+                                return false;
+                            });
+
+                        }
+                    });
+
+                }
+            });
+
+
+            table.on('tool(currentTableFilter)', function (obj) {
+                var data = obj.data;
+                var path;
+                if (obj.event === 'edit') {
+
+                    layer.open({
+                        type: 1,
+                        area: ['50%', '80%'],
+                        title: '编辑用户',
+                        shadeClose: true,
+                        content: $('#editAdminUser').html(),
+                        success: function (layero, dIndex) {
+                         form.val('modeleditAdmin', data);//回显数据
+
+                            // 表单提交事件
+                            form.on('submit(saveBtn)', function (data) {
+                                layer.load(2);
+                                $.post("/RoleManagemen/EditRoles", data.field, function (res) {
+                                    layer.closeAll('loading');
+                                    if (res.code == 0) {
+                                        layer.close(dIndex);
+                                        layer.msg(res.msg, { icon: 1 });
+                                        table.reload('currentTableId');
+                                    } else {
+                                        layer.msg(res.msg, { icon: 2 });
+                                    }
+                                }, 'json');
+                                return false;
+                            });
+                        }
+                    });
+
+                    return false;
+                } else if (obj.event === 'addlrc') {
+                    layer.open({
+                        type: 1,
+                        area: ['50%', '80%'],
+                        title: '规则列表',
+                        shade: false,//父窗体不可点击
+                        shadeClose: true,
+                        content: $('#AddLrcData').html(),
+                        success: function (layero, dIndex) {
+                        form.val('modeleditAdmin', data);//回显数据
+
+                            // 表单提交事件
+                            form.on('submit(saveBtn)', function (data) {
+                                layer.load(2);
+                                $.post("CreateLrcFile", data.field, function (res) {
+                                    layer.closeAll('loading');
+                                    if (res.code == 0) {
+                                        layer.close(dIndex);
+                                        layer.msg(res.msg, { icon: 1 });
+                                        table.reload('currentTableId');
+                                    } else {
+                                        layer.msg(res.msg, { icon: 2 });
+                                    }
+                                }, 'json');
+                                return false;
+                            });
+
+                        }
+                    });
+
+                } else if (obj.event === 'delete') {
+                    layer.confirm('确认删除 ' + data.Title + " ?", function (index) {
+                        $.post("/UsersManagemen/Delete", { 'id': data.Id }, function (res) {
+                            if (res.code == 0) {
+                                obj.del();
+                                layer.msg(res.msg, { icon: 1 });//提示说明
+                                table.reload('currentTableId'); //重载表格
+                                layer.close(index);//再执行关闭
+                            } else {
+                                layer.msg(res.msg, { icon: 2 });
+                            }
+                        }, 'json');
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>

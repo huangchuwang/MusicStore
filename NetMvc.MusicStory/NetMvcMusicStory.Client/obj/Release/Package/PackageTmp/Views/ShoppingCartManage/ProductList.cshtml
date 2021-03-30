@@ -1,0 +1,202 @@
+﻿@{
+    Layout = null;
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>layui</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    @Styles.Render("~/Content/layui/css")
+    <link rel="stylesheet" href="~/Content/layuimini/lib/layui-v2.5.5/css/layui.css" media="all">
+    <link rel="stylesheet" href="~/Content/layuimini/css/public.css" media="all">
+</head>
+
+<body>
+    <style>
+        #modeleditAdmin {
+            padding: 20px;
+        }
+    </style>
+    <input hidden id="ID" value="@ViewBag.id" name="Id" />
+    <div class="layuimini-container">
+        <div class="layuimini-main">
+            <fieldset class="table-search-fieldset">
+                <legend>搜索信息</legend>
+                <div style="margin: 10px 10px 10px 10px">
+                    <form class="layui-form layui-form-pane" action="">
+                        <div class="layui-form-item">
+                            <div class="layui-inline">
+                                <label class="layui-form-label">商品搜索</label>
+                                <div class="layui-input-inline">
+                                    <input type="text" name="title" autocomplete="off" class="layui-input">
+                                </div>
+                            </div>
+                            <div class="layui-inline">
+                                <button type="submit" class="layui-btn layui-btn-primary" lay-submit
+                                        lay-filter="data-search-btn">
+                                    <i class="layui-icon"></i> 搜 索
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </fieldset>
+
+            <script type="text/html" id="toolbarDemo">
+                <div class="layui-btn-container">
+                    <button class="layui-btn layui-btn-normal layui-btn-sm data-add-btn" lay-event="add"> <i class="layui-icon">&#xe654;</i>添加角色</button>
+                </div>
+            </script>
+            <table class="layui-hide" id="currentTableId" lay-filter="currentTableFilter"></table>
+            <script type="text/html" id="currentTableBar">
+                <a class="layui-btn layui-btn-sm data-count-edits" lay-event="edit"><i class="layui-icon"></i>编辑</a>
+                @*<a class="layui-btn layui-btn-sm data-count-edits" lay-event="edit"><i class="layui-icon"></i>编辑</a>*@
+                <a class="layui-btn layui-btn-sm layui-btn-danger data-count-delete" lay-event="delete"><i class="layui-icon">&#xe640;</i>删除</a>
+            </script>
+        </div>
+    </div>
+    @Scripts.Render("~/Content/layui/js")
+    <script src="~/Content/layuimini/lib/layui-v2.5.5/layui.js" charset="utf-8"></script>
+    <script>
+        layui.use(['jquery', 'upload', 'form', 'laydate', 'table'], function () {
+            var $ = layui.jquery,
+                form = layui.form,
+                table = layui.table;
+            var laydate = layui.laydate;
+            var upload = layui.upload;
+            form.render();
+
+            var Id=$("#ID").val();
+
+            table.render({
+                elem: '#currentTableId',
+                url: "GetItemDataList"
+                ,where: {id: Id },
+                //toolbar: '#toolbarDemo',去掉打印和分栏
+                defaultToolbar: ['filter', 'exports', 'print', {
+                    title: '提示',
+                    layEvent: 'LAYTABLE_TIPS',
+                    icon: 'layui-icon-tips'
+                }],
+                cols: [[
+                    //{ type: "checkbox", width: 50 },
+                    { type: 'numbers', title: 'ID', width: 100, fixed: 'left' },
+                    { field: 'Name', width: 150, title: '商品名称' },
+                    { field: 'Quantity', width: 200, title: '商品数量' },
+                    { field: 'Price', width: 150, title: '标价' },
+                    { field: 'SubTotalPrice', width: 200, title: '总价' },
+                    { field: 'AlbumImg', width: 200, title: '专辑图片' },
+                    { title: '操作', minWidth: 50, templet: '#currentTableBar', fixed: "right", align: "center" }
+                ]],
+                limits: [5, 10, 15, 20, 25, 50, 100],
+                limit: 5,
+                page: true,
+                skin: 'line'
+            });
+
+            form.on('submit(data-search-btn)', function (data) {
+                var title = data.field.title;
+                if (data == '') {
+                    table.reload('currentTableId', 'data');
+                    return false;
+                }
+                //执行搜索重载表格
+                table.reload('currentTableId', {
+                    url: "/RoleManagemen/GetOneRole", //搜索接口
+                    page:{
+                        curr: 1
+                    }
+                    , where:{
+                        title: title,
+                    }
+                });
+
+                return false;
+            });
+
+            table.on('tool(currentTableFilter)', function (obj) {
+                var data = obj.data;
+                var path;
+                if (obj.event === 'edit') {
+
+                    layer.open({
+                        type: 1,
+                        area: ['50%', '80%'],
+                        title: '编辑用户',
+                        shadeClose: true,
+                        content: $('#editAdminUser').html(),
+                        success: function (layero, dIndex) {
+                            form.val('modeleditAdmin', data);//回显数据
+
+                            // 表单提交事件
+                            form.on('submit(saveBtn)', function (data) {
+                                layer.load(2);
+                                $.post("/RoleManagemen/EditRoles", data.field, function (res) {
+                                    layer.closeAll('loading');
+                                    if (res.code == 0) {
+                                        layer.close(dIndex);
+                                        layer.msg(res.msg, { icon: 1 });
+                                        table.reload('currentTableId');
+                                    } else {
+                                        layer.msg(res.msg, { icon: 2 });
+                                    }
+                                }, 'json');
+                                return false;
+                            });
+                        }
+                    });
+
+                    return false;
+                } else if(obj.event === 'addlrc') {
+                    layer.open({
+                        type: 1,
+                        area: ['50%', '80%'],
+                        title: '规则列表',
+                        shade: false,//父窗体不可点击
+                        shadeClose: true,
+                        content: $('#AddLrcData').html(),
+                        success: function (layero, dIndex) {
+                        form.val('modeleditAdmin', data);//回显数据
+
+                            // 表单提交事件
+                            form.on('submit(saveBtn)', function (data) {
+                                layer.load(2);
+                                $.post("CreateLrcFile", data.field, function (res) {
+                                    layer.closeAll('loading');
+                                    if (res.code == 0) {
+                                        layer.close(dIndex);
+                                        layer.msg(res.msg, { icon: 1 });
+                                        table.reload('currentTableId');
+                                    } else {
+                                        layer.msg(res.msg, { icon: 2 });
+                                    }
+                                }, 'json');
+                                return false;
+                            });
+                        }
+                    });
+                } else if (obj.event === 'delete') {
+                    layer.confirm('确认删除 ' + data.Title + " ?", function (index) {
+                        $.post("/ShoppingCartManage/Delete", { 'id': data.Id }, function (res) {
+                            if (res.code == 0) {
+                                obj.del();
+                                layer.msg(res.msg, { icon: 1 });//提示说明
+                                table.reload('currentTableId'); //重载表格
+                                layer.close(index);//再执行关闭
+                            } else {
+                                layer.msg(res.msg, { icon: 2 });
+                            }
+                        }, 'json');
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>
